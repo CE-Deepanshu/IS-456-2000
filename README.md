@@ -1,2 +1,7 @@
 # IS-456-2000
-Indian Standard  PLAIN AND REINFORCED CONCRETE  CODE OF PRACTICE  ( Fourth Revision)
+## Indian Standard  PLAIN AND REINFORCED CONCRETE  CODE OF PRACTICE  ( Fourth Revision)
+Note: Content of website includes changes due to **Amendment no. 1, 2, 3, 4, 5 & 6**
+## BUREAU OF INDIAN STANDARDS
+## CONTENT
+### SECTION 1 GENERAL
+### SECTION 2 MATERIALS, WORKMANSHIP, INSPECTION AND TESTING
