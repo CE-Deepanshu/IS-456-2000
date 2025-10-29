@@ -19,68 +19,63 @@ k) Sulphate resisting Portland cement conforming to IS 12330
 
 Other combinations of Portland cement with mineral admixtures (see 5.2) of quality conforming with relevant Indian Standards laid down may also be used in the manufacture of concrete provided that there are satisfactory data on their suitability, such as performance test on concrete containing them.
 
-#### 5.1.1
-Low heat Portland cement conforming to IS 12600 shall be used with adequate precautions with regard to removal of formwork, etc.
+**5.1.1** Low heat Portland cement conforming to IS 12600 shall be used with adequate precautions with regard to removal of formwork, etc.
 
-#### 5.1.2
-High alumina cement conforming to IS 6452 or supersulphated cement conforming to IS 6909 may be used only under special circumstances with the prior approval of the engineer-in-charge. Specialist literature may be consulted for guidance regarding the use of these types of cements.
+**5.1.2** High alumina cement conforming to IS 6452 or supersulphated cement conforming to IS 6909 may be used only under special circumstances with the prior approval of the engineer-in-charge. Specialist literature may be consulted for guidance regarding the use of these types of cements.
 
-#### 5.1.3
-The attention of the engineers-in-charge and users of cement is drawn to the fact that quality of various cements mentioned in 5.1 is to be determined on the basis of its conformity to the performance characteristics given in the respective Indian Standard Specification for that cement. Any trade-mark or any trade name indicating any special features not covered in the standard or any qualification or other special performance characteristics sometimes claimed/indicated on the bags or containers or in advertisements alongside the 'Statutory Quality Marking' or otherwise have no relation whatsoever with the characteristics guaranteed by the Quality Marking as relevant to that cement. Consumers are, therefore, advised to go by the characteristics as given in the corresponding Indian Standard Specification or seek specialist advise to avoid any problem in concrete making and construction.
+**5.1.3** The attention of the engineers-in-charge and users of cement is drawn to the fact that quality of various cements mentioned in 5.1 is to be determined on the basis of its conformity to the performance characteristics given in the respective Indian Standard Specification for that cement. Any trade-mark or any trade name indicating any special features not covered in the standard or any qualification or other special performance characteristics sometimes claimed/indicated on the bags or containers or in advertisements alongside the 'Statutory Quality Marking' or otherwise have no relation whatsoever with the characteristics guaranteed by the Quality Marking as relevant to that cement. Consumers are, therefore, advised to go by the characteristics as given in the corresponding Indian Standard Specification or seek specialist advise to avoid any problem in concrete making and construction.
 
-#### 5.1.4
-At locations where temperature are predominantly below 15°C for 6 months the use of Portland calcined limestone cement should not be permitted in underground structures and structural elements in contact with ground water. Composite cement conforming to IS 16415 and containing a declared clinker content not less than 45% fly ash content not more than 25% and a min 28 day compressive strength of 43 MPa can be used for RCC construction.
+**5.1.4** At locations where temperature are predominantly below 15°C for 6 months the use of Portland calcined limestone cement should not be permitted in underground structures and structural elements in contact with ground water. Composite cement conforming to IS 16415 and containing a declared clinker content not less than 45% fly ash content not more than 25% and a min 28 day compressive strength of 43 MPa can be used for RCC construction.
 
 ### 5.2 Mineral Admixtures
 
-#### 5.2.1 Pozzolanas
+**5.2.1 Pozzolanas**
 
 Pozzolanic materials as given below may be used:
 
-##### 5.2.1.1 Fly ash (pulverized fuel ash)
+**5.2.1.1 Fly ash (pulverized fuel ash)**
 Fly ash conforming to IS 3812 may be used as part replacement of ordinary Portland cement.
 
-##### 5.2.1.2 Silica fume
+**5.2.1.2 Silica fume**
+
 Silica fume conforming to IS 15388 be used as part replacement of Cement. ensured.
 
 **NOTE** - The silica fume is usually used in proportion of 5 to 10 percent of the cement content of a mix.
 
-##### 5.2.1.3 Rice husk ash
+**5.2.1.3 Rice husk ash**
+
 Rice husk ash giving required performance and uniformity characteristics may be used with the approval of the deciding authority.
 
 **NOTE** - Rice husk ash is produced by burning rice husk and contain large proportion of silica. To achieve amorphous state, rice husk may be burnt at controlled temperature. It is necessary to evaluate the product from a particular source for performance and uniformity since it can be as deleterious as silt when incorporated in concrete. Water demand and drying shrinkage should be studied before using rice husk.
 
-##### 5.2.1.4 Metakaoline
+**5.2.1.4 Metakaoline**
+
 Metakaoline conforming to IS 16354 may be used as pozzolanic material in may be used as part replacement of ordinary portland cement.
 
 **NOTE** - Metakaoline is obtained by calcination of pure or refined kaolintic clay at a temperature between 650°C and 850°C, followed by grinding to achieve a fineness of 700 to 900 m²/kg. The resulting material has high pozzolanicity.
 
-#### 5.2.2 Ground Granulated Blast Furnace Slag
+**5.2.2 Ground Granulated Blast Furnace Slag**
 Ground granulated blast furnace slag conforming to IS 16714 may be used as part replacement of ordinary Portland cements.
 
 ### 5.3 Aggregates
 
 Aggregates derived from natural source and from other than natural source shall comply with the requirements of IS 383.
 
-#### 5.3.1
-Other types of aggregates such as slag and crushed overburnt brick or tile, which may be found suitable with regard to strength, durability of concrete and freedom from harmful effects may be used for plain concrete members, but such aggregates should not contain more than 0.5 percent of sulphates as SO₃ and should not absorb more than 10 percent of their own mass of water.
+**5.3.1** Other types of aggregates such as slag and crushed overburnt brick or tile, which may be found suitable with regard to strength, durability of concrete and freedom from harmful effects may be used for plain concrete members, but such aggregates should not contain more than 0.5 percent of sulphates as SO₃ and should not absorb more than 10 percent of their own mass of water.
 
-#### 5.3.2
-Heavy weight aggregates or light weight aggregates such as bloated clay aggregates and sintered fly ash aggregates may also be used provided the engineer-in-charge is satisfied with the data on the properties of concrete made with them.
+**5.3.2** Heavy weight aggregates or light weight aggregates such as bloated clay aggregates and sintered fly ash aggregates may also be used provided the engineer-in-charge is satisfied with the data on the properties of concrete made with them.
 
 **NOTE** - Some of the provisions of the code would require modification when these aggregates are used; specialist literature may be consulted for guidance.
 
-#### 5.3.3 Size of Aggregate
+**5.3.3** Size of Aggregate
 
 The nominal maximum size of coarse aggregate should be as large as possible within the limits specified but in no case greater than one-fourth of the minimum thickness of the member, provided that the concrete can be placed without difficulty so as to surround all reinforcement thoroughly and fill the corners of the form. For most work, 20 mm aggregate is suitable. Where there is no restriction to the flow of concrete into sections, 40 mm or larger size may be permitted. In concrete elements with thin sections, closely spaced reinforcement or small cover, consideration should be given to the use of 10 mm nominal maximum size. 
 
 Plums above 160 mm and up to any reasonable size may be used in plain concrete work up to a maximum limit of 20 percent by volume of concrete when specifically permitted by the engineer-in-charge. The plums shall be distributed evenly and shall be not closer than 150 mm from the surface.
 
-##### 5.3.3.1
-For heavily reinforced concrete members as in the case of ribs of main beams, the nominal maximum size of the aggregate should usually be restricted to 5 mm less than the minimum clear distance between the main bars or 5 mm less than the minimum cover to the reinforcement whichever is smaller.
+**5.3.3.1** For heavily reinforced concrete members as in the case of ribs of main beams, the nominal maximum size of the aggregate should usually be restricted to 5 mm less than the minimum clear distance between the main bars or 5 mm less than the minimum cover to the reinforcement whichever is smaller.
 
-#### 5.3.4
-Coarse and fine aggregate shall be batched separately.
+**5.3.4** Coarse and fine aggregate shall be batched separately.
 
 ### 5.4 Water
 
@@ -92,61 +87,39 @@ a) To neutralize 100 ml sample of water, using phenolphthalein as an indicator, 
 b) To neutralize 100 ml sample of water, using mixed indicator, it should not require more than 25 ml of 0.02 normal H₂SO₄. The details of test shall be given in 8 of IS 3025 (Part 23).  
 c) Permissible limits for solids shall be as given in Table 1.
 
-#### 5.4.1
-In case of doubt regarding development of strength, the suitability of water for making concrete shall be ascertained by the compressive strength and initial setting time tests specified in 5.4.1.2 and 5.4.1.3.
+**5.4.1** In case of doubt regarding development of strength, the suitability of water for making concrete shall be ascertained by the compressive strength and initial setting time tests specified in 5.4.1.2 and 5.4.1.3.
 
-##### 5.4.1.1
-The sample of water taken for testing shall represent the water proposed to be used for concreting, due account being paid to seasonal variation. The sample shall not receive any treatment before testing other than that envisaged in the regular supply of water proposed for use in concrete. The sample than be stored in a clean container previously rinsed out with similar water.
+**5.4.1.1** The sample of water taken for testing shall represent the water proposed to be used for concreting, due account being paid to seasonal variation. The sample shall not receive any treatment before testing other than that envisaged in the regular supply of water proposed for use in concrete. The sample than be stored in a clean container previously rinsed out with similar water.
 
-##### 5.4.1.2
-Average 28 days compressive strength of at least three 150 mm concrete cubes prepared with water proposed to be used shall not be less than 90 percent of the average of strength of three similar concrete cubes prepared with distilled water. The cubes shall be prepared, cured and tested in accordance with the requirements of IS 516.
+**5.4.1.2** Average 28 days compressive strength of at least three 150 mm concrete cubes prepared with water proposed to be used shall not be less than 90 percent of the average of strength of three similar concrete cubes prepared with distilled water. The cubes shall be prepared, cured and tested in accordance with the requirements of IS 516.
 
-##### 5.4.1.3
-The initial setting time of test block prepared with the appropriate cement and the water proposed to be used shall not be less than 30 min and shall not differ by ± 30 min from the initial setting time of control test block prepared with the same cement and distilled water. The test blocks shall be prepared and tested in accordance with the requirements of IS 4031 (Part 5).
+**5.4.1.3** The initial setting time of test block prepared with the appropriate cement and the water proposed to be used shall not be less than 30 min and shall not differ by ± 30 min from the initial setting time of control test block prepared with the same cement and distilled water. The test blocks shall be prepared and tested in accordance with the requirements of IS 4031 (Part 5).
 
-#### 5.4.2
-The pH value of water shall be not less than 6.
+**5.4.2** The pH value of water shall be not less than 6.
 
-#### 5.4.3 Sea Water
+**5.4.3** Sea Water
 
 Sea water shall not be used for mixing or curing of concrete shall not be used because of presence of harmful salts in sea water. Under unavoidable circumstances sea water may be used for mixing or curing in plain concrete with no embedded steel after having given due consideration to possible disadvantages and precautions including use of appropriate cement system.
 
-**Table 1 Permissible limit for solids**  
-*(Clause 5.4)*
+<img width="712" height="276" alt="image" src="https://github.com/user-attachments/assets/7584421f-a31f-485c-9b93-0b39bbe2b730" />
 
-| Sr. No. | Parameter | Tested as per | Permissible limit |
-|---------|-----------|----------------|-------------------|
-| 1 | Organic | IS 3025 (Part 18)   | 200 mg/l |
-| 2 | Inorganic | IS 3025 (Part 18)   | 3000 mg/l |
-| 3 | Sulphates (as SO₃) | IS 3025 (Part 24)   | 400 mg/l |
-| 4 | Chlorides (as Cl) | IS 3025 (Part 32)   | 2000 mg/l for concrete not containing embedded steel and 500 mg/l for reinforced concrete work |
-| 5 | Suspended Matter | IS 3025 (Part 17)   | 2000 mg/l |
-
-#### 5.4.4
-Water found satisfactory for mixing is also suitable for curing concrete. However, water used for curing should not produce any objectionable stain or unsightly deposit on the concrete surface.
+**5.4.4** Water found satisfactory for mixing is also suitable for curing concrete. However, water used for curing should not produce any objectionable stain or unsightly deposit on the concrete surface.
 
 ### 5.5 Chemical Admixtures
 
-#### 5.5.1
-Admixture, if used, shall comply with IS 9103. Previous experience with and data on such materials should be considered in relation to the likely standards of supervision and workmanship to the work being specified.
+**5.5.1** Admixture, if used, shall comply with IS 9103. Previous experience with and data on such materials should be considered in relation to the likely standards of supervision and workmanship to the work being specified.
 
-#### 5.5.2
-Admixtures should not impair durability of concrete nor combine with the constituents to form harmful compounds nor increase the risk of corrosion of reinforcement.
+**5.5.2** Admixtures should not impair durability of concrete nor combine with the constituents to form harmful compounds nor increase the risk of corrosion of reinforcement.
 
-#### 5.5.3
-The workability, compressive strength and the slump loss of concrete with and without the use of admixtures shall be established during the trial mixes before use of admixtures.
+**5.5.3** The workability, compressive strength and the slump loss of concrete with and without the use of admixtures shall be established during the trial mixes before use of admixtures.
 
-#### 5.5.4
-The relative density of liquid admixtures shall be checked for each drum containing admixtures and compared with the specified value before acceptance.
+**5.5.4** The relative density of liquid admixtures shall be checked for each drum containing admixtures and compared with the specified value before acceptance.
 
-#### 5.5.5
-The chloride content of admixtures shall be independently tested for each batch before acceptance.
+**5.5.5** The chloride content of admixtures shall be independently tested for each batch before acceptance.
 
-#### 5.5.6
-If two or more admixtures are used simultaneously in the same concrete mix, data should be obtained to assess their interaction and to ensure their compatibility.
+**5.5.6** If two or more admixtures are used simultaneously in the same concrete mix, data should be obtained to assess their interaction and to ensure their compatibility.
 
-#### 5.5.7
-The amount of admixture added to a mix shall be recorded in the production record. Redosing of admixture is not normally be permitted. In special circumstances, if necessary, additional dose of admixture may be added at project site and mixed adequately in mixer itself to regain the workability of concrete with the mutual agreement between producer/supplier and purchaser/user of concrete. However the producer/supplier shall assure the ultimate quality of concrete supplied by him and maintain record of quantity and time of addition.
+**5.5.7** The amount of admixture added to a mix shall be recorded in the production record. Redosing of admixture is not normally be permitted. In special circumstances, if necessary, additional dose of admixture may be added at project site and mixed adequately in mixer itself to regain the workability of concrete with the mutual agreement between producer/supplier and purchaser/user of concrete. However the producer/supplier shall assure the ultimate quality of concrete supplied by him and maintain record of quantity and time of addition.
 
 ### 5.6 Reinforcement
 
@@ -156,14 +129,11 @@ a) Mild steel and medium tensile steel bars conforming to IS 432 (Part I)
 b) High strength deformed steel bars conforming to IS 1786  
 c) Hard-drawn steel wire fabric conforming to IS 1566  
 
-#### 5.6.1
-All reinforcement shall be free from loose mill scales, loose rust and coats of paints, oil, mud or any other substances which may destroy or reduce bond. Sand blasting or other treatment is recommended to clean reinforcement.
+**5.6.1** All reinforcement shall be free from loose mill scales, loose rust and coats of paints, oil, mud or any other substances which may destroy or reduce bond. Sand blasting or other treatment is recommended to clean reinforcement.
 
-#### 5.6.2
-Special precautions like coating of reinforcement may be required for reinforced concrete elements in exceptional cases and for rehabilitation of structures. Specialist literature may be referred to in such cases. Reduction in design bond strength of coated bars shall be looked into.
+**5.6.2** Special precautions like coating of reinforcement may be required for reinforced concrete elements in exceptional cases and for rehabilitation of structures. Specialist literature may be referred to in such cases. Reduction in design bond strength of coated bars shall be looked into.
 
-#### 5.6.3
-The modulus of elasticity of steel shall be taken as 200 kN/mm². The characteristic yield strength of different steel shall be assumed as the minimum yield stress/0.2 percent proof stress specified in the relevant Indian Standard.
+**5.6.3** The modulus of elasticity of steel shall be taken as 200 kN/mm². The characteristic yield strength of different steel shall be assumed as the minimum yield stress/0.2 percent proof stress specified in the relevant Indian Standard.
 
 ### 5.7 Fibers
 
@@ -179,89 +149,62 @@ Storage of materials shall be as described in IS 4082.
 
 The concrete shall be in grades designed as per Table 2.
 
-#### 6.1.1
-The characteristic strength is defined as the strength of material, below which not more than 5 percent of the test results are expected to fall.
+**6.1.1** The characteristic strength is defined as the strength of material, below which not more than 5 percent of the test results are expected to fall.
 
-#### 6.1.2
-The minimum grade of concrete for plain and reinforced concrete shall be as per Table 5.
+**6.1.2** The minimum grade of concrete for plain and reinforced concrete shall be as per Table 5.
 
-#### 6.1.3
-Concrete of grades lower than those given in Table 5 may be used for plain concrete constructions, lean concrete, simple foundations, foundation for masonry walls and other simple or temporary reinforced concrete construction.
+**6.1.3** Concrete of grades lower than those given in Table 5 may be used for plain concrete constructions, lean concrete, simple foundations, foundation for masonry walls and other simple or temporary reinforced concrete construction.
 
 ### 6.2 Properties of Concrete
 
-#### 6.2.1 Increase of Strength with Age
+**6.2.1 Increase of Strength with Age**
 
 There is normally a gain of strength beyond 28 days. The quantum of increase depends upon the grade and type of cement, curing and environmental conditions, etc. The design should be based on 28 days characteristic strength of concrete unless there is a evidence to justify a higher strength for a particular structure due to age.
 
-**Table 2 Grades of Concrete**  
-*(Clause 6.1, 9.2.2, 15.1.1 and 36.1)*
-
-| Group | Grade designation | Specific characteristic compressive strength of 150mm cube at 28 days in N/mm² |
-|-------|-------------------|------------------------------------------------------------------------------|
-| Ordinary Concrete | M10 | 10 |
-| | M15 | 15 |
-| | M20 | 20 |
-| Standard Concrete | M25 | 25 |
-| | M30 | 30 |
-| | M35 | 35 |
-| | M40 | 40 |
-| | M45 | 45 |
-| | M50 | 50 |
-| | M55 | 55 |
-| | M60 | 60 |
-| High Strength Concrete | M65 | 65 |
-| | M70 | 70 |
-| | M75 | 75 |
-| | M80 | 80 |
-| | M85 | 85 |
-| | M90 | 90 |
-| | M95 | 95 |
-| | M100 | 100 |
+<img width="632" height="499" alt="image" src="https://github.com/user-attachments/assets/52424360-91fe-4617-a578-83bc608a3f90" />
 
 **Notes**  
 1. In the designation of concrete mix M refers to the mix and the number to the specified compressive strength of 150 mm size cube at 28 days, expressed in N/mm².  
 2. For concrete of compressive strength greater than M 55, design parameters given in the standard may not be applicable and the values may be obtained from specialized literatures and experimental results.
 
-##### 6.2.1.1
-For concrete of grade M 30 and above, the rate of increase of compressive strength with age shall be based on actual investigations.
+**6.2.1.1** For concrete of grade M 30 and above, the rate of increase of compressive strength with age shall be based on actual investigations.
 
-##### 6.2.1.2
-Where members are subjected to lower direct load during construction, they should be checked for stresses resulting from combination of direct load and bending during construction.
+**6.2.1.2** Where members are subjected to lower direct load during construction, they should be checked for stresses resulting from combination of direct load and bending during construction.
 
-#### 6.2.2 Tensile Strength of Concrete
+**6.2.2** Tensile Strength of Concrete
 
 The flexural and splitting tensile strengths shall be obtained as described in IS 516 and IS 5816 respectively. When the designer wishes to use an estimate of the tensile strength from the compressive strength, the following formula may be used:
-
+```
 Flexural strength, fcr = 0.7 √fck N/mm²
-
+```
+---
 where fck is the characteristic cube compressive strength of concrete in N/mm².
 
-#### 6.2.3 Elastic Deformation
+**6.2.3** Elastic Deformation
 
 The modulus of elasticity is primarily influenced by the elastic properties of the aggregate and to a lesser extent by the conditions of curing and age of the concrete, the mix proportions and the type of cement. The modulus of elasticity is normally related to the compressive strength of concrete.
 
-##### 6.2.3.1
+**6.2.3.1**
 The modulus of elasticity of concrete can be assumed as follows:
-
+```
 Ec = 5000√fck
-
+```
+---
 where  
 Ec is the short term static modulus of elasticity in N/mm².  
 Actual measured values may differ by ± 20 percent from the values obtained from the above expression.
 
-#### 6.2.4 Shrinkage
+**6.2.4** Shrinkage
 
 The total shrinkage of concrete depends upon the constituents of concrete, size of the member and environmental conditions. For a given humidity and temperature, the total shrinkage of concrete is most influenced by the total amount of water present in the concrete at the time of mixing and, to a lesser extent, by the cement content.
 
-##### 6.2.4.1
-In the absence of test data, the approximate value of the total shrinkage strain for design may be taken as 0.0003 (for more information, see IS 1343).
+**6.2.4.1** In the absence of test data, the approximate value of the total shrinkage strain for design may be taken as 0.0003 (for more information, see IS 1343).
 
-#### 6.2.5 Creep of Concrete
+**6.2.5** Creep of Concrete
 
 Creep of concrete depends, in addition to the factors listed in 6.2.4, on the stress in the concrete, age at loading and the duration of loading. As long as the stress in concrete does not exceed one-third of its characteristic compressive strength, creep may be assumed to be proportional to the stress.
 
-##### 6.2.5.1
+**6.2.5.1**
 In the absence of experimental data and detailed information on the effect of the variables, the ultimate creep strain may be estimated from the following values of creep coefficient (that is, ultimate creep strain/elastic strain at the age of loading); for long span structure, it is advisable to determine actual creep strain, likely to take place.
 
 | Age at Loading | Creep Coefficient |
@@ -272,7 +215,7 @@ In the absence of experimental data and detailed information on the effect of th
 
 **NOTE** - The ultimate creep strain, estimate as described above does not include the elastic strain.
 
-#### 6.2.6 Thermal Expansion
+**6.2.6** Thermal Expansion
 
 The coefficient of thermal expansion depends on nature of cement, the aggregate, the cement content, the relative humidity and the size of sections. The value of coefficient of thermal expansion for concrete with different aggregates may be taken as below:
 
@@ -286,35 +229,13 @@ The coefficient of thermal expansion depends on nature of cement, the aggregate,
 
 ## 7 WORKABILITY
 
-### 7.1
-The concrete mix proportions chosen should be such that the concrete is of adequate workability for the placing conditions of the concrete and can properly be compacted with the means available. Suggested ranges of workability of concrete measured in accordance with IS 1199 are given below:
+**7.1** The concrete mix proportions chosen should be such that the concrete is of adequate workability for the placing conditions of the concrete and can properly be compacted with the means available. Suggested ranges of workability of concrete measured in accordance with IS 1199 are given below:
 
-### Table: Workability and Slump Requirements for Various Placing Conditions
+<img width="664" height="461" alt="image" src="https://github.com/user-attachments/assets/9e03b14d-6cf3-4caf-a039-833b6dee09d4" />
 
-| Placing Conditions                                                                 | Degree of Workability | Slump (mm)     |
-|------------------------------------------------------------------------------------|------------------------|----------------|
-| Blinding concrete                                                                  | Very Low               | see 7.1.1      |
-| Shallow section                                                                    | Low                    | 25–75          |
-| Pavement using pavers                                                              | Low                    | 25–75          |
-| Mass concrete                                                                      | Low                    | 25–75          |
-| Lightly reinforced sections in slabs, beams, walls, columns                        | Low                    | 25–75          |
-| Floors                                                                             | Low                    | 25–75          |
-| Hand placed pavements                                                              | Low                    | 25–75          |
-| Canal lining                                                                       | Low                    | 25–75          |
-| Strip footing                                                                      | Low                    | 25–75          |
-| Heavily reinforced sections in slabs, beams, walls, columns                        | Medium                 | 50–100         |
-| Slipform work                                                                      | Medium                 | 75–100         |
-| Pumped concrete                                                                    | Medium                 | 75–100         |
-| Trench fill                                                                        | High                   | 100–150        |
-| Tremie concrete                                                                    | Very High              | see 7.1.2      |
+**7.1.1** In the 'very low' category of workability where strict control is necessary, for example pavement quality concrete, measurement of workability by determination of compacting factor will be more appropriate than slump (see IS 1199) and a value of compacting factor of 0.75 to 0.80 is suggested.
 
-**NOTE** - For most of the placing conditions, internal vibrators (needle vibrators) are suitable. The diameter of the needle shall be determined based on the density and spacing of reinforcement bars and thickness of sections. For tremie concrete, vibrators are not required to be used (see also 13.3).
-
-#### 7.1.1
-In the 'very low' category of workability where strict control is necessary, for example pavement quality concrete, measurement of workability by determination of compacting factor will be more appropriate than slump (see IS 1199) and a value of compacting factor of 0.75 to 0.80 is suggested.
-
-#### 7.1.2
-In the 'very high' category of workability, measurement of workability by determination of flow will be appropriate (see IS 9103).
+**7.1.2** In the 'very high' category of workability, measurement of workability by determination of flow will be appropriate (see IS 9103).
 
 ## 8 DURABILITY OF CONCRETE
 
@@ -322,8 +243,7 @@ In the 'very high' category of workability, measurement of workability by determ
 
 A durable concrete is one that performs satisfactorily in the working environment during its anticipated exposure conditions during service. The materials and mix proportions specified and used should be such as to maintain its integrity and, if applicable, to protect embedded metal from corrosion.
 
-#### 8.1.1
-One of the main characteristics influencing the durability of concrete is its permeability to the ingress of water, oxygen, carbon dioxide, chloride, sulphate and other potentially deleterious substances. Impermeability is governed by the constituents and workmanship used in making the concrete. With normal-weight aggregates a suitably low permeability is achieved by having an adequate cement content, sufficiently low free water cement ratio, by ensuring complete compaction of the concrete, and by adequate curing.
+**8.1.1** One of the main characteristics influencing the durability of concrete is its permeability to the ingress of water, oxygen, carbon dioxide, chloride, sulphate and other potentially deleterious substances. Impermeability is governed by the constituents and workmanship used in making the concrete. With normal-weight aggregates a suitably low permeability is achieved by having an adequate cement content, sufficiently low free water cement ratio, by ensuring complete compaction of the concrete, and by adequate curing.
 
 The factors influencing durability include:
 
@@ -338,26 +258,26 @@ The degree of exposure anticipated for the concrete during its service life toge
 
 ### 8.2 Requirements for Durability
 
-#### 8.2.1 Shape and Size of Member
+**8.2.1** Shape and Size of Member
 
-The shape or design details of exposed structures should be such as to promote good drainage of water and to avoid standing pools and rundown of water. Care should also be taken to minimize any cracks that may collect or transmit water. Adequate curing is essential to avoid the harmful effects of early loss of moisture (see 13.5). Member profiles and their intersections with other members shall be designed and detailed in a way to ensure easy flow of concrete and proper compaction during concreting.
+The shape or design details of exposed structures should be such as to promote good drainage of water and to avoid standing pools and rundown of water. Care should also be taken to minimize any cracks that may collect or transmit water. Adequate curing is essential to avoid the harmful effects of early loss of moisture **(see 13.5)**. Member profiles and their intersections with other members shall be designed and detailed in a way to ensure easy flow of concrete and proper compaction during concreting.
 
 Concrete is more vulnerable to deterioration due to chemical or climatic attack when it is in thin sections, in sections under hydrostatic pressure from one side only, in partially immersed sections and at corners and edges of elements. The life of the structure can be lengthened by providing extra cover to steel, by chamfering the corners or by using circular cross sections or by using surface coatings which prevent or reduce the ingress of water, carbon dioxide or aggressive chemicals.
 
-#### 8.2.2 Exposure Conditions
+**8.2.2** Exposure Conditions
 
-##### 8.2.2.1 General environment
+**8.2.2.1** General environment
 
 The general environment to which the concrete will be exposed during its working life is classified into five levels of severity, that is, mild, moderate, severe, very severe and extreme as described in Table 3.
 
 <img width="740" height="475" alt="image" src="https://github.com/user-attachments/assets/535c9b4e-031d-4e26-807d-08290f6b0ff6" />
 
 
-##### 8.2.2.2 Abrasive
+**8.2.2.2** Abrasive
 
 Specialist literatures may be referred to for durability requirements of concrete surfaces exposed to abrasive action, for example, in case of machinery and metal tyres.
 
-##### 8.2.2.3 Freezing and thawing
+**8.2.2.3** Freezing and thawing
 
 Where freezing and thawing actions under wet conditions exist, enhanced durability can be obtained by the use of suitable air entraining admixtures. When concrete lower than grade M 50 is used under these conditions, the mean total air content by volume of the fresh concrete at the time of delivery into the construction should be:
 
@@ -369,54 +289,40 @@ Where freezing and thawing actions under wet conditions exist, enhanced durabili
 
 Since air entrainment reduces the strength, suitable adjustments may be made in the mix design for achieving required strength.
 
-##### 8.2.2.4 Exposure to sulphate attack
+**8.2.2.4** Exposure to sulphate attack
 
 Table 4 gives recommendations for the type of cement, maximum free water/cement ratio and minimum cement content, which are required at different sulphate concentrations in near-neutral ground water having pH of 6 to 9.
 
 For the very high sulphate concentrations in Class 5 conditions, some form of lining such as polyethylene or polychloroprene sheet; or surface coating based on asphalt, chlorinated rubber, epoxy; or polyurethane materials should also be used to prevent access by the sulphate solution.
 
-#### 8.2.3 Requirement of Concrete Cover
+**8.2.3** Requirement of Concrete Cover
 
-##### 8.2.3.1
-The protection of the steel in concrete against corrosion depends upon an adequate thickness of good quality concrete.
+**8.2.3.1** The protection of the steel in concrete against corrosion depends upon an adequate thickness of good quality concrete.
 
-##### 8.2.3.2
-The nominal cover to the reinforcement shall be provided as per 26.4.
+**8.2.3.2** The nominal cover to the reinforcement shall be provided as per 26.4.
 
-#### 8.2.4 Concrete Mix Proportions
+**8.2.4** Concrete Mix Proportions
 
-##### 8.2.4.1 General
+**8.2.4.1** General
 
 The free water-cement ratio is an important factor in governing the durability of concrete and should always be the lowest value. Appropriate values for minimum cement content and the maximum free water-cement ratio are given in Table 5 for different exposure conditions. The minimum cement content and maximum water-cement ratio apply to 20 mm nominal maximum size aggregate. For other sizes of aggregate they should be changed as given in Table 6.
 
-##### 8.2.4.2 Maximum cement content
+**8.2.4.2** Maximum cement content
 
 Cement content not including fly ash and ground granulated blast furnace slag in excess of 450 kg/m³ should not be used unless special consideration has been given in design to the increased risk of cracking due to drying shrinkage in thin sections, or to early thermal cracking and to the increased risk of damage due to alkali silica reactions.
 
-**Table 4 Requirements for concrete exposed to sulphate attack**  
-*(Clause 8.2.2.4 and 9.1.2)*
+<img width="437" height="553" alt="image" src="https://github.com/user-attachments/assets/b6be457d-a6d6-4727-98ed-32ccea67b639" />
 
-| Sr. No. | Class | Concentration of sulphates, expressed as SO₃ | Type of Cement | Dense, Fully Compacted Concrete. Made with 20 mm Nominal Maximum Size Aggregates Complying with IS 383 |
-|---------|-------|----------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------|
-| | | In soil | In Ground Water | | Minimum Cement Content (Kg/m³) | Maximum Water - Cement Ratio |
-| | | Total SO₃ | SO₃ in 2:1 Water: Soil Extract | | | |
-| | | Percent | g/l | g/l | | |
-| 1 | 1 | Traces (<0.2) | Less than 1.0 | Less than 0.3 | Ordinary Portland cement or Portland slag cement or Portland pozzolana cement | 280 | 0.55 |
-| 2 | 2 | 0.2 to 0.5 | 1.0 to 1.9 | 0.3 to 1.2 | Ordinary Portland cement or Portland slag cement or Portland pozzolana cement | 330 | 0.5 |
-| | | | | | Super sulphated cement or sulphate resisting Portland cement | 310 | 0.5 |
-| 3 | 3 | 0.5 to 1.0 | 1.9 to 3.1 | 1.2 to 2.5 | Supersulphated cement or sulphate resisting Portland cement | 330 | 0.5 |
-| | | | | | Portland pozzolana cement or Portland slag cement | 350 | 0.45 |
-| 4 | 4 | 1.0 to 2.0 | 3.1 to 5.0 | 2.5 to 5.0 | Supersulphated or sulphate resisting Portland cement | 370 | 0.45 |
-| 5 | 5 | More than 2.0 | More than 5.0 | More than 5.0 | Sulphate resisting Portland cement or supersulphated cement with protective coatings | 400 | 0.4 |
+**Notes:**
 
-**Notes:**  
 1. Cement content given in this table is irrespective of grades of cement.  
 2. Use of supersulphated cement is generally restricted where the prevailing temperature is above 40°C.  
 3. Supersulphated cement gives an acceptable life provided that the concrete is dense and prepared with a water-cement ratio of 0.4 or less, in mineral acids, down to pH 3.5.  
-4. The cement contents given in col 6 of this table are the minimum recommended. For SO₃ contents near the upper limit of any class, cement contents above these minimum are advised. For purpose of calculations of SO₃ content if the test results are in the form of SO₄, following shall be used SO₃ = 0.833SO₄  
+4. The cement contents given in column 6 of this table are the minimum recommended. For SO₃ contents near the upper limit of any class, cement contents above these minimum are advised. For purpose of calculations of SO₃ content if the test results are in the form of SO₄, use: **SO₃ = 0.833 × SO₄**  
 5. For severe conditions, such as thin sections under hydrostatic pressure on one side only and sections partly immersed, considerations should be given to a further reduction of water-cement ratio.  
-6. Portland Pozzolana Cement conforming to IS 1489 (Part 1) having at least 25% of flyash content. Portland slag cement conforming to IS 455 with slag content more than 50 percent slag content give acceptable sulphate resisting properties.  
-7. Where chloride is encountered along with sulphates in soil or ground Water, ordinary Portland cement with C₃A content from 5 to 8 percent shall be desirable to be used in concrete, instead of sulphate resisting cement. Alternatively, Portland slag cement conforming to IS 455 having at least 50 percent slag or a blend of ordinary Portland cement and slag may be used provided sufficient information is available on performance of such blended cements in these conditions.
+6. Portland Pozzolana Cement conforming to IS 1489 (Part 1) having at least 25% of flyash content, and Portland Slag Cement conforming to IS 455 with slag content more than 50%, give acceptable sulphate resisting properties.  
+7. Where chloride is encountered along with sulphates in soil or ground water, Ordinary Portland Cement with C₃A content from 5 to 8 percent shall be desirable instead of sulphate resisting cement. Alternatively, Portland Slag Cement conforming to IS 455 having at least 50% slag or a blend of Ordinary Portland Cement and slag may be used, provided sufficient performance data is available.
+
 
 #### 8.2.5 Mix Constituents
 
