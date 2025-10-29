@@ -1,0 +1,115 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Section 2 Documentation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: white;
+            line-height: 1.6;
+            padding-top: 70px; /* Space for fixed search bar */
+        }
+        
+        .fixed-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: white;
+            z-index: 1000;
+            padding: 15px;
+            border-bottom: 2px solid navy;
+        }
+        
+        #search-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+        
+        #search-bar {
+            width: 80%;
+            padding: 10px;
+            font-size: 16px;
+            border: 2px solid navy;
+            border-radius: 4px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        
+        .section-box {
+            border: 2px solid navy;
+            border-left-width: 15px;
+            border-right-width: 15px;
+            margin: 20px auto;
+            padding: 30px;
+            max-width: 900px;
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .section-title {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 20px;
+            color: navy;
+        }
+        
+        .subsection {
+            margin: 25px 0;
+        }
+        
+        .subsection-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: navy;
+            margin-bottom: 10px;
+        }
+        
+        .content {
+            text-align: justify;
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        
+        .highlight {
+            background-color: yellow;
+            transition: background-color 0.5s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="fixed-header">
+        <div id="search-container">
+            <input type="text" id="search-bar" placeholder="Search in section content...">
+        </div>
+        <h1 class="section-title">SECTION 2 MATERIALS, WORKMANSHIP, INSPECTION AND TESTING</h1>
+    </div>
+
+    <div class="section-box">
+        <!-- Subsection 2.1 -->
+        <div class="subsection" id="subsection-2.1">
+            <h2 class="subsection-title">2.1 MATERIALS</h2>
+            <p class="content">All materials shall conform to the relevant standards specified herein. Materials shall be free from defects and shall be of the quality specified. Certificates of compliance shall be provided for all critical materials.</p>
+            <p class="content">Storage of materials shall prevent deterioration and contamination. Materials shall be clearly identified and segregated according to their specifications.</p>
+        </div>
+
+        <!-- Subsection 2.2 -->
+        <div class="subsection" id="subsection-2.2">
+            <h2 class="subsection-title">2.2 WORKMANSHIP</h2>
+            <p class="content">Workmanship shall comply with industry best practices and approved procedures. All personnel shall be qualified for their assigned tasks and possess current certifications.</p>
+            <p class="content">Work areas shall be maintained in a clean and orderly condition. All operations shall be performed under appropriate environmental conditions.</p>
+        </div>
+
+        <!-- Subsection 2.3 -->
+        <div class="subsection" id="subsection-2.3">
+            <h2 class="subsection-title">
