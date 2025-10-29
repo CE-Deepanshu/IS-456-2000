@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IS 456 Section 5 MATERIALS</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', serif;
+      background-color: white;
+      color: black;
+      text-align: justify;
+      margin: 0;
+      padding-top: 70px; /* space for fixed search bar */
+    }
+
+    /* Fixed search bar styling */
+    .search-container {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: white;
+      border-bottom: 2px solid #ccc;
+      padding: 10px 20px;
+      z-index: 1000;
+    }
+
+    .search-container input[type="text"] {
+      width: 300px;
+      padding: 8px;
+      font-size: 16px;
+      font-family: 'Times New Roman', serif;
+      border: 1px solid #888;
+    }
+
+    .search-container button {
+      padding: 8px 12px;
+      font-size: 16px;
+      font-family: 'Times New Roman', serif;
+      cursor: pointer;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+    }
+
+    /* Section box styling */
+    .section-box {
+      border: 2px solid black;
+      padding: 15px;
+      margin: 20px;
+    }
+
+    h2 {
+      color: blue;
+    }
+
+    h3 {
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Search Bar -->
+  <div class="search-container">
+    <input type="text" id="searchInput" placeholder="Search clause or keyword...">
+    <button onclick="searchContent()">Search</button>
+  </div>
+
+  <!-- Section 5 MATERIALS -->
+  <div class="section-box" id="5materials">
+    <h2>5 MATERIALS</h2>
+    <h3><b>5.1</b> Cement</h3>
+    <p>The cement used shall be any of the following and the type selected should be appropriate for the intended use:</p>
+    <ul>
+      <li><b>a)</b> 33 Grade ordinary Portland cement conforming to IS 269</li>
+      <li><b>b)</b> 43 Grade ordinary Portland cement conforming to IS 8112</li>
+      <li><b>c)</b> 53 Grade ordinary Portland cement conforming to IS 12269</li>
+      <li><b>d)</b> Rapid hardening Portland cement conforming to IS 8041</li>
+      <li><b>e)</b> Portland slag cement conforming to IS 455</li>
+      <li><b>f)</b> Portland pozzolana cement (fly ash based) conforming to IS 1489 (Part 1)</li>
+      <li><b>g)</b> Portland pozzolana cement (calcined clay based) conforming to IS 1489 (Part 2)</li>
+      <li><b>h)</b> Hydrophobic-cement conforming to IS 8043</li>
+      <li><b>j)</b> Low heat Portland cement conforming to IS 12600</li>
+      <li><b>k)</b> Sulphate resisting Portland cement conforming to IS 12330</li>
+    </ul>
+    <p>Other combinations of Portland cement with mineral admixtures (<b>see 5.2</b>) of quality conforming with relevant Indian Standards laid down may also be used in the manufacture of concrete provided that there are satisfactory data on their suitability, such as performance test on concrete containing them.</p>
+  </div>
+
+  <!-- JavaScript for search -->
+  <script>
+    function searchContent() {
+      const input = document.getElementById("searchInput").value.toLowerCase();
+      const sections = document.querySelectorAll(".section-box");
+
+      for (let section of sections) {
+        if (section.textContent.toLowerCase().includes(input)) {
+          section.scrollIntoView({ behavior: "smooth", block: "start" });
+          break;
+        }
+      }
+    }
+  </script>
+
+</body>
+</html>
