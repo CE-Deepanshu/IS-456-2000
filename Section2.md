@@ -311,7 +311,9 @@ The free water-cement ratio is an important factor in governing the durability o
 
 Cement content not including fly ash and ground granulated blast furnace slag in excess of 450 kg/m³ should not be used unless special consideration has been given in design to the increased risk of cracking due to drying shrinkage in thin sections, or to early thermal cracking and to the increased risk of damage due to alkali silica reactions.
 
-<img width="437" height="553" alt="image" src="https://github.com/user-attachments/assets/b6be457d-a6d6-4727-98ed-32ccea67b639" />
+<img width="434" height="548" alt="image" src="https://github.com/user-attachments/assets/e277e62a-157b-4a7d-8d01-cb007fa9b19b" />
+
+<img width="436" height="324" alt="image" src="https://github.com/user-attachments/assets/a72b0963-5057-4dfe-b355-180cba379876" />
 
 **Notes:**
 
@@ -324,23 +326,23 @@ Cement content not including fly ash and ground granulated blast furnace slag in
 7. Where chloride is encountered along with sulphates in soil or ground water, Ordinary Portland Cement with C₃A content from 5 to 8 percent shall be desirable instead of sulphate resisting cement. Alternatively, Portland Slag Cement conforming to IS 455 having at least 50% slag or a blend of Ordinary Portland Cement and slag may be used, provided sufficient performance data is available.
 
 
-#### 8.2.5 Mix Constituents
+**8.2.5** Mix Constituents
 
-##### 8.2.5.1 General
+**8.2.5.1** General
 
 For concrete to be durable, careful selection of the mix and materials is necessary, so that deleterious constituents do not exceed the limits.
 
-##### 8.2.5.2 Chlorides in concrete
+**8.2.5.2** Chlorides in concrete
 
 Whenever there is chloride in concrete there is an increased risk of corrosion of embedded metal. The higher the chloride content, or if subsequently exposed to warm moist conditions, the greater the risk of corrosion. All constituents may contain chlorides and concrete may be contaminated by chlorides from the external environment. To minimize the chances of deterioration of concrete from harmful chemical salts, the levels of such harmful salts in concrete coming from concrete materials, that is, cement, aggregates water and admixtures, as well as by diffusion from the environment should be limited. The total amount of chloride content (Cl) in the concrete at the time of placing shall be as given in Table 7.
 
 The total acid soluble chloride content should be calculated from the mix proportions and the measured chloride contents of each of the constituents. Wherever possible, the total chloride content of the concrete should be determined.
 
-##### 8.2.5.3 Sulphates in concrete
+**8.2.5.3** Sulphates in concrete
 
 Sulphates are present in most cements and in some aggregates; excessive amounts of water-soluble sulphate from these or other mix constituents can cause expansion and disruption of concrete. To prevent this, the total water-soluble sulphate content of the concrete mix, expressed as SO₃ where SO₃ = 0.833SO₄ should not exceed 4 percent by mass of the cement in the mix. The sulphate content should be calculated as the total from the various constituents of the mix. The 4 percent limit does not apply to concrete made with super sulphated cement (complying with IS 6909).
 
-##### 8.2.5.4 Alkali-aggregate reaction
+**8.2.5.4** Alkali-aggregate reaction
 
 Some aggregates containing particular varieties of silica may be susceptible to attack by alkalis (Na₂O and K₂O) originating from cement or other sources, producing an expansive reaction which can cause cracking and disruption of concrete. Damage to concrete from this reaction will normally only occur when all the following are present together:
 
@@ -358,17 +360,7 @@ Further advantage can be obtained by use of fly ash ground conforming to IS 3812
 c) Measures to reduce the degree of saturation of the concrete during service such as use of impermeable membranes.  
 d) Limiting the cement content in the concrete mix and thereby limiting total alkali content in the concrete mix. For more guidance specialist literatures may be referred.
 
-**Table 5 Minimum Cement Content, Maximum Water-Cement Ratio and Minimum Grade of Concrete for Different Exposures with Normal Weight Aggregates of 20 mm Nominal Maximum Size**  
-*(Clause 6.1.2, 8.2.4.1 and 9.1.2)*
-
-| Sr. No. | Exposure | Plain Concrete | | | Reinforced Concrete | | |
-|---------|----------|----------------|-|-|---------------------|-|-|
-| | | Minimum Cement Content (kg/m³) | Maximum Water Cement Ratio | Minimum Grade of Concrete | Minimum Cement Content (kg/m³) | Maximum Water Cement Ratio | Minimum Grade of Concrete |
-| 1 | Mild | 220 | 0.6 | | 300 | 0.55 | M20 |
-| 2 | Moderate | 240 | 0.6 | M15 | 300 | 0.5 | M25 |
-| 3 | Severe | 250 | 0.5 | M20 | 320 | 0.45 | M30 |
-| 4 | Very severe | 260 | 0.45 | M20 | 340 | 0.45 | M35 |
-| 5 | Extreme | 280 | 0.4 | M25 | 360 | 0.4 | M40 |
+<img width="537" height="256" alt="image" src="https://github.com/user-attachments/assets/caa7d768-495c-4efa-a365-c913958bf31c" />
 
 **NOTE**  
 1. Cement content prescribed in this table is irrespective of the grades of cement and it is inclusive of additions mentioned in 5.2. The additions such as fly ash or ground granulated blast furnace slag may be taken into account in the concrete composition with respect to the cement content and water-cement ratio not exceed the limit of pozzolona and slag specified in IS 1489 (Part I) and IS 455 respectively, beyond which these addition, through permitted, shall not be considered for these purpose.  
@@ -393,21 +385,21 @@ d) Limiting the cement content in the concrete mix and thereby limiting total al
 | 2 | Reinforced concrete of plain concrete containing embedded metal | 0.6 |
 | 3 | Concrete not containing embedded metal or any material requiring protection from chloride | 3 |
 
-#### 8.2.6 Concrete in Aggressive Soils and Water
+**8.2.6** Concrete in Aggressive Soils and Water
 
-##### 8.2.6.1 General
+**8.2.6.1** General
 
 The destructive action of aggressive waters on concrete is progressive. The rate of deterioration decreases as the concrete is made stronger and more impermeable, and increases as the salt content of the water increases. Where structures are only partially immersed or are in contact with aggressive soils or waters on one side only evaporation may cause serious concentrations of salts with subsequent deterioration, even where the original salt content of the soil or water is not high.
 
 **NOTE** - Guidance regarding requirements for concrete exposed to sulphate attack is given in 8.2.2.4.
 
-##### 8.2.6.2 Drainage
+**8.2.6.2** Drainage
 
 At sites where alkali concentrations are high or may become very high, the ground water should be lowered by drainage so that it will not come into direct contact with the concrete.
 
 Additional protection may be obtained by the use of impermeable barriers.
 
-#### 8.2.7 Compaction, Finishing and Curing
+**8.2.7** Compaction, Finishing and Curing
 
 Adequate compaction without segregation should be ensured by providing suitable workability and by employing appropriate placing and compacting equipment and procedures. Full compaction is particularly important in the vicinity of construction and movement joints and of embedded water bars and reinforcement.
 
@@ -417,20 +409,18 @@ Overworking to the surface and the addition of water cement to aid in finishing 
 
 It is essential to use proper and adequate curing techniques to reduce the permeability of the concrete and enhance its durability by extending the hydration of the cement, particularly in its surface zone (see 13.5).
 
-#### 8.2.8 Concrete in Sea-water
+**8.2.8** Concrete in Sea-water
 
 Concrete in sea-water or exposed directly along the sea-coast shall be at least M 20 Grade in the case of plain concrete and M 30 in case of reinforced concrete. The use of slag or pozzolana cement is advantageous under such conditions.
 
 ##### 8.2.8.1
 Special attention shall be given to the design of the mix to obtain the densest possible concrete; slag, broken brick, soft limestone, soft sandstone, or other porous or weak aggregates shall not be used.
 
-##### 8.2.8.2
-As far as possible, preference shall be given to precast members unreinforced, well-cured and hardened, without sharp corners, and having trowel smooth finished surfaces free from crazing, cracks or other defects; plastering should be avoided.
+**8.2.8.2** As far as possible, preference shall be given to precast members unreinforced, well-cured and hardened, without sharp corners, and having trowel smooth finished surfaces free from crazing, cracks or other defects; plastering should be avoided.
 
-##### 8.2.8.3
-No construction joints shall be allowed within 600 mm below low water-level or within 600 mm of the upper and lower planes of wave action. Where unusually severe conditions or abrasion are anticipated, such parts of the work shall be protected by bituminous or silica-fluoride coatings or stone facing bedded with bitumen.
+**8.2.8.3** No construction joints shall be allowed within 600 mm below low water-level or within 600 mm of the upper and lower planes of wave action. Where unusually severe conditions or abrasion are anticipated, such parts of the work shall be protected by bituminous or silica-fluoride coatings or stone facing bedded with bitumen.
 
-##### 8.2.8.4
+**8.2.8.4**
 In reinforced concrete structures, care shall be taken to protect the reinforcement from exposure to saline atmosphere during storage, fabrication and use. It may be achieved by treating the surface of reinforcement with cement wash or by suitable methods.
 
 ## 9 CONCRETE MIX PROPORTIONING
