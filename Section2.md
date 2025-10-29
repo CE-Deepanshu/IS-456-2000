@@ -413,15 +413,13 @@ It is essential to use proper and adequate curing techniques to reduce the perme
 
 Concrete in sea-water or exposed directly along the sea-coast shall be at least M 20 Grade in the case of plain concrete and M 30 in case of reinforced concrete. The use of slag or pozzolana cement is advantageous under such conditions.
 
-##### 8.2.8.1
-Special attention shall be given to the design of the mix to obtain the densest possible concrete; slag, broken brick, soft limestone, soft sandstone, or other porous or weak aggregates shall not be used.
+**8.2.8.1** Special attention shall be given to the design of the mix to obtain the densest possible concrete; slag, broken brick, soft limestone, soft sandstone, or other porous or weak aggregates shall not be used.
 
 **8.2.8.2** As far as possible, preference shall be given to precast members unreinforced, well-cured and hardened, without sharp corners, and having trowel smooth finished surfaces free from crazing, cracks or other defects; plastering should be avoided.
 
 **8.2.8.3** No construction joints shall be allowed within 600 mm below low water-level or within 600 mm of the upper and lower planes of wave action. Where unusually severe conditions or abrasion are anticipated, such parts of the work shall be protected by bituminous or silica-fluoride coatings or stone facing bedded with bitumen.
 
-**8.2.8.4**
-In reinforced concrete structures, care shall be taken to protect the reinforcement from exposure to saline atmosphere during storage, fabrication and use. It may be achieved by treating the surface of reinforcement with cement wash or by suitable methods.
+**8.2.8.4** In reinforced concrete structures, care shall be taken to protect the reinforcement from exposure to saline atmosphere during storage, fabrication and use. It may be achieved by treating the surface of reinforcement with cement wash or by suitable methods.
 
 ## 9 CONCRETE MIX PROPORTIONING
 
@@ -429,15 +427,14 @@ In reinforced concrete structures, care shall be taken to protect the reinforcem
 
 The mix proportions shall be selected to ensure the workability of the fresh concrete and when concrete is hardened, it shall have the required strength, durability and surface finish.
 
-#### 9.1.1
-The determination of the proportions of cement, aggregates and water to attain the required strengths shall be made as follows:
+**9.1.1** The determination of the proportions of cement, aggregates and water to attain the required strengths shall be made as follows:
 
 a) By designing the concrete mix; such concrete shall be called 'Design mix concrete', or  
 b) By adopting nominal concrete mix; such concrete shall be called 'Nominal mix concrete'.  
 
 Design mix concrete is preferred to nominal mix. If design mix concrete cannot be used for any reason on the work for grades of M 20 or lower, nominal mixes may be used with the permission of engineer-in-charge, which, however, is likely to involve a higher cement content.
 
-#### 9.1.2 Information Required
+**9.1.2** Information Required
 
 In specifying a particular grade of concrete, the following information shall be included:
 
@@ -454,8 +451,7 @@ k) Maximum temperature of concrete at the time of placing;
 m) Method of placing; and  
 n) Degree of supervision.  
 
-##### 9.1.2.1
-In appropriate circumstances, the following additional information may be specified:
+**9.1.2.1** In appropriate circumstances, the following additional information may be specified:
 
 a) Type of aggregate,  
 b) Maximum cement content, and  
@@ -463,44 +459,27 @@ c) Whether an admixture shall or shall not be used and the type of admixture and
 
 ### 9.2 Design Mix Concrete
 
-#### 9.2.1
-As the guarantor of quality of concrete used in the construction, the constructor shall carry out the mix design and the mix so designed (not the method of design) shall be approved by the employer within the limitations of parameters and other stipulations laid down by this standard. If so desired, the employer shall be provided with supporting data including graphs showing strength versus water-cement ratio for range of proportions, complete trial mix proportioning details to substantiate the choice of cement content, fine and coarse aggregate content, water, mineral admixtures, chemical admixtures, etc.
+**9.2.1** As the guarantor of quality of concrete used in the construction, the constructor shall carry out the mix design and the mix so designed (not the method of design) shall be approved by the employer within the limitations of parameters and other stipulations laid down by this standard. If so desired, the employer shall be provided with supporting data including graphs showing strength versus water-cement ratio for range of proportions, complete trial mix proportioning details to substantiate the choice of cement content, fine and coarse aggregate content, water, mineral admixtures, chemical admixtures, etc.
 
-#### 9.2.2
-The mix shall be designed to produce the grade of concrete having the required workability and a characteristic strength not less than appropriate values given in Table 2. Proportion/grading of aggregates shall be made by trial in such a way as to make densest possible concrete. The target mean strength of concrete mix should be equal to the characteristic strength plus 1.65 times the standard deviation.
+**9.2.2** The mix shall be designed to produce the grade of concrete having the required workability and a characteristic strength not less than appropriate values given in Table 2. Proportion/grading of aggregates shall be made by trial in such a way as to make densest possible concrete. The target mean strength of concrete mix should be equal to the characteristic strength plus 1.65 times the standard deviation.
 
-#### 9.2.3
-Mix design done earlier not prior to one year may be considered adequate for later work provided there is no change in source and the quality of the materials.
+**9.2.3** Mix design done earlier not prior to one year may be considered adequate for later work provided there is no change in source and the quality of the materials.
 
-#### 9.2.4 Standard Deviation
+**9.2.4** Standard Deviation
 
 The standard deviation for each grade of concrete shall be calculated, separately.
 
-##### 9.2.4.1 Standard deviation based on test strength of sample
+**9.2.4.1** Standard deviation based on test strength of sample
 
 a) Number of test results of samples - The total number of test strength of samples required to constitute an acceptable record for calculation of standard deviation shall be not less than 30. Attempts should be made to obtain the 30 samples, as early as possible, when a mix is used for the first time.  
 b) In case of significant changes in concrete - When significant changes are made in the production of concrete batches (for example changes in the materials used, mix design, equipment or technical control), the standard deviation value shall be separately calculated for such batches of concrete.  
 c) Standard deviation to be brought up to date - The calculation of the standard deviation shall be brought up to date after every change of mix design.
 
-##### 9.2.4.2 Assumed standard deviation
+**9.2.4.2** Assumed standard deviation
 
 Where sufficient test results for a particular grade of concrete are not available, the value of standard deviation given in Table 8 may be assumed for design of mix in the first instance. As soon as the results of samples are available, actual calculated standard deviation shall be used and the mix designed properly. However, when adequate past records for a similar grade exit and justify to the designer a value of standard deviation different from that shown in Table 8, it shall be permissible to use that value.
 
-**Table 8 Assumed Standard Deviation**  
-*(Clause 9.2.4.2 and Table 11)*
-
-| Grade of Concrete | Assumed Standard Deviation (N/mm²) |
-|-------------------|------------------------------------|
-| M10 | 3.5 |
-| M15 | |
-| M20 | 4 |
-| M25 | |
-| M30 | 5 |
-| M35 | |
-| M40 | |
-| M45 | |
-| M50 | |
-| M60 | |
+<img width="567" height="257" alt="image" src="https://github.com/user-attachments/assets/af6e06d3-5d51-40eb-8c8d-a6cc5e6c9736" />
 
 **NOTE**  
 1. The above values correspond to the site control having proper storage of cement; weigh batching of all materials; controlled addition of water; regular checking of all materials, aggregate gradings and moisture content; and periodical checking of workability and strength. Where there is deviation from the above the values given in the above table shall be increased by 1 N/mm².  
@@ -510,19 +489,9 @@ Where sufficient test results for a particular grade of concrete are not availab
 
 Nominal mix concrete may be used for concrete of M 20 or lower. The proportions of materials for nominal mix concrete shall be in accordance with Table 9.
 
-#### 9.3.1
-The cement content of the mix specified in Table 9 for any nominal mix shall be proportionately increased if the quantity of water in a mix has to be increased to overcome the difficulties of placement and compaction so that the water-cementitious as specified is not exceeded.
+**9.3.1** The cement content of the mix specified in Table 9 for any nominal mix shall be proportionately increased if the quantity of water in a mix has to be increased to overcome the difficulties of placement and compaction so that the water-cementitious as specified is not exceeded.
 
-**Table 9 Proportions for Nominal Mix Concrete**  
-*(Clause 9.3 and 9.3.1)*
-
-| Grade of Concrete | Total Quantity of Dry Aggregate by Mass per 50 kg of Cement, to be Taken as the Sum of the Individual Masses of Fine and Coarse Aggregates, kg | Proportion of Fine Aggregate to Coarse Aggregate (by Mass) | Quantity of Water per 50 kg of Cement, Max |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------|
-| M5 | 800 | Generally 1:2 but subject to an upper limit of 1:1½ and a lower limit of 1:2½ | 60 |
-| M7.5 | 625 | | 45 |
-| M10 | 480 | | 34 |
-| M15 | 330 | | 32 |
-| M20 | 250 | | 30 |
+<img width="574" height="312" alt="image" src="https://github.com/user-attachments/assets/7e676604-5809-4551-a52a-e5800ed2e944" />
 
 **NOTE**  
 1. The proportion of the fine to coarse aggregates should be adjusted from upper limit to lower limit progressively as the grading of fine aggregates becomes finer and the maximum size of coarse aggregate becomes larger. Graded coarse aggregate shall be used.  
@@ -533,14 +502,11 @@ Example: For an average grading of fine aggregate (that is, Zone II of Table 4 o
 
 ### 10.1 Quality Assurance Measures
 
-#### 10.1.1
-In order that the properties of the completed structure be consistent with the requirements and the assumptions made during the planning and the design, adequate quality assurance measures shall be taken. The construction should result in satisfactory strength, serviceability and long term durability so as to lower the overall life-cycle cost. Quality assurance in construction activity relates to proper design, use of adequate materials and components to be supplied by the producers, proper workmanship in the execution of works by the contractor and ultimately proper care during the use of structure including timely maintenance and repair by the owner.
+**10.1.1** In order that the properties of the completed structure be consistent with the requirements and the assumptions made during the planning and the design, adequate quality assurance measures shall be taken. The construction should result in satisfactory strength, serviceability and long term durability so as to lower the overall life-cycle cost. Quality assurance in construction activity relates to proper design, use of adequate materials and components to be supplied by the producers, proper workmanship in the execution of works by the contractor and ultimately proper care during the use of structure including timely maintenance and repair by the owner.
 
-#### 10.1.2
-Quality assurance measures are both technical and organizational. Some common cases should be specified in a general Quality Assurance Plan which shall identify the key elements necessary to provide fitness of the structure and the means by which they are to be provided and measured with the overall purpose to provide confidence that the realized project will work satisfactorily in service fulfilling intended needs. The job of quality control and quality assurance would involve quality audit of both the inputs as well as the outputs. Inputs are in the form of materials for concrete; workmanship in all stages of batching, mixing, transportation, placing, compaction and curing; and the related plant, machinery and equipment resulting in the output in the form of concrete in place. To ensure proper performance, it is necessary that each step in concreting which will be covered by the next step is inspected as the work proceeds (see also 17).
+**10.1.2** Quality assurance measures are both technical and organizational. Some common cases should be specified in a general Quality Assurance Plan which shall identify the key elements necessary to provide fitness of the structure and the means by which they are to be provided and measured with the overall purpose to provide confidence that the realized project will work satisfactorily in service fulfilling intended needs. The job of quality control and quality assurance would involve quality audit of both the inputs as well as the outputs. Inputs are in the form of materials for concrete; workmanship in all stages of batching, mixing, transportation, placing, compaction and curing; and the related plant, machinery and equipment resulting in the output in the form of concrete in place. To ensure proper performance, it is necessary that each step in concreting which will be covered by the next step is inspected as the work proceeds (see also 17).
 
-#### 10.1.3
-Each party involved in the realization of a project should establish and implement a Quality Assurance Plan, for its participation in the project. Supplier's and subcontractor's activities shall be covered in the plan. The individual Quality Assurance Plans shall fit into the general Quality Assurance Plan. A Quality Assurance Plan shall define the tasks and responsibilities of all persons involved, adequate control and checking procedures, and the organization and maintaining adequate documentation of the building process and its results. Such documentation should generally include:
+**10.1.3** Each party involved in the realization of a project should establish and implement a Quality Assurance Plan, for its participation in the project. Supplier's and subcontractor's activities shall be covered in the plan. The individual Quality Assurance Plans shall fit into the general Quality Assurance Plan. A Quality Assurance Plan shall define the tasks and responsibilities of all persons involved, adequate control and checking procedures, and the organization and maintaining adequate documentation of the building process and its results. Such documentation should generally include:
 
 a) test reports and manufacturer's certificate for materials, concrete mix design details;  
 b) pour cards for site organization and clearance for concrete placement;  
@@ -557,23 +523,18 @@ To avoid confusion and error in batching, consideration should be given to using
 
 For large and medium project sites, the concrete shall be sourced from ready-mixed concrete plants or from captive on-site or off-site automatic batching and mixing plants. The concrete produced and supplied by ready mixed concrete plants shall be in accordance with IS 4926. In case of concrete from captive on-site or off-site automatic batching and mixing plants, similar quality control shall be followed.
 
-#### 10.2.1
-The grading of aggregate should be controlled by obtaining the coarse aggregate in different sizes and blending them in the right proportions, the different sizes being stocked in separate stock-piles.
+**10.2.1** The grading of aggregate should be controlled by obtaining the coarse aggregate in different sizes and blending them in the right proportions, the different sizes being stocked in separate stock-piles.
 
-#### 10.2.2
-The accuracy of the measuring equipment shall be within ± 2 percent of the quantity of cement being measured and within ± 3 percent of the quantity of aggregate, admixtures and water being measured. In a batching plant, the concrete production equipment shall be calibrated initially at the time of installation or reconditioning of the equipment and subsequently at the following intervals:
+**10.2.2** The accuracy of the measuring equipment shall be within ± 2 percent of the quantity of cement being measured and within ± 3 percent of the quantity of aggregate, admixtures and water being measured. In a batching plant, the concrete production equipment shall be calibrated initially at the time of installation or reconditioning of the equipment and subsequently at the following intervals:
 
 a) Mechanical knife edge systems: At least once every two months  
 b) Electrical/load cell systems: At least once every three months.  
 
-#### 10.2.3
-Proportion/Type and grading of aggregates shall be made by trial in such a way so as to obtain densest possible concrete. All ingredients of the concrete should be used by mass except water and chemical admixture which may be by volume.
+**10.2.3** Proportion/Type and grading of aggregates shall be made by trial in such a way so as to obtain densest possible concrete. All ingredients of the concrete should be used by mass except water and chemical admixture which may be by volume.
 
-#### 10.2.4
-Volume batching may be allowed only where weigh-batching is not practical and provided accurate bulk densities of materials to be actually used in concrete have earlier been established. Allowance for bulking shall be made in accordance with IS 2386 (Part 3). The mass volume relationship should be checked as frequently as necessary, the frequency for the given job being determined by engineer-in-charge to ensure that the specified grading is maintained.
+**10.2.4** Volume batching may be allowed only where weigh-batching is not practical and provided accurate bulk densities of materials to be actually used in concrete have earlier been established. Allowance for bulking shall be made in accordance with IS 2386 (Part 3). The mass volume relationship should be checked as frequently as necessary, the frequency for the given job being determined by engineer-in-charge to ensure that the specified grading is maintained.
 
-#### 10.2.5
-It is important to maintain the water-cement ratio constant at its correct value. To this end, determination of moisture contents in both fine and coarse aggregates shall be made as frequently as possible, the frequency for a given job being determined by the engineer-in-charge according to weather conditions. The amount of the added water shall be adjusted to compensate for any observed variations in the moisture contents. For the determination of moisture content in the aggregates, IS 2386 (Part 3) may be referred to. Where batching plants are used, it is recommended to determine moisture content by moisture probes fitted to the batching plants. To allow for the variation in mass of aggregate due to variation in their moisture content, suitable adjustments in the masses of aggregates shall also be made. In the absence of exact data, only in the case of nominal mixes, the amount of surface water may be estimated from the values given in Table 10.
+**10.2.5** It is important to maintain the water-cement ratio constant at its correct value. To this end, determination of moisture contents in both fine and coarse aggregates shall be made as frequently as possible, the frequency for a given job being determined by the engineer-in-charge according to weather conditions. The amount of the added water shall be adjusted to compensate for any observed variations in the moisture contents. For the determination of moisture content in the aggregates, IS 2386 (Part 3) may be referred to. Where batching plants are used, it is recommended to determine moisture content by moisture probes fitted to the batching plants. To allow for the variation in mass of aggregate due to variation in their moisture content, suitable adjustments in the masses of aggregates shall also be made. In the absence of exact data, only in the case of nominal mixes, the amount of surface water may be estimated from the values given in Table 10.
 
 **Table 10 Surface Water Carried by Aggregate**  
 *(Clause 10.2.5)*
@@ -588,21 +549,17 @@ It is important to maintain the water-cement ratio constant at its correct value
 
 Coarser the aggregate, less the water it will carry.
 
-#### 10.2.6
-No substitutions in materials used on the work or alterations in the established proportions, except as permitted in 10.2.4 and 10.2.5 shall be made without additional tests to show that the quality and strength of concrete are satisfactory.
+**10.2.6** No substitutions in materials used on the work or alterations in the established proportions, except as permitted in 10.2.4 and 10.2.5 shall be made without additional tests to show that the quality and strength of concrete are satisfactory.
 
 ### 10.3 Mixing
 
 Concrete shall be mixed in a mechanical mixer (IS 1791 and IS 12119). It shall be ensured that stationary or central mixers and truck mixers shall comply with the performance criteria of mixing efficiency as per IS 4634. Mixing efficiency test shall be performed at least once in a year.
 
-#### 10.3.1
-As a guidance, the mixing time shall be at least 2 min for conventional free fall (drum) batch type concrete mixers. For other types of more efficient mixers, manufacturers' recommendations shall be followed.
+**10.3.1** As a guidance, the mixing time shall be at least 2 min for conventional free fall (drum) batch type concrete mixers. For other types of more efficient mixers, manufacturers' recommendations shall be followed.
 
-#### 10.3.2
-Workability should be checked at frequent intervals (see IS 1199).
+**10.3.2** Workability should be checked at frequent intervals (see IS 1199).
 
-#### 10.3.3
-Dosages of retarders, plasticisers and superplasticisers shall be restricted to 0.5, 1.0 and 2.0 percent respectively by weight of cementitious materials and unless a higher value is agreed upon between the manufacturer and the constructor based on performance test.
+**10.3.3** Dosages of retarders, plasticisers and superplasticisers shall be restricted to 0.5, 1.0 and 2.0 percent respectively by weight of cementitious materials and unless a higher value is agreed upon between the manufacturer and the constructor based on performance test.
 
 ## 11 FORMWORK
 
@@ -626,59 +583,44 @@ All rubbish, particularly, chippings, shavings and sawdust shall be removed from
 
 Forms shall not be released until the concrete has achieved a strength of at least twice the stress to which the concrete may be subjected at the time of removal of formwork. The strength referred to shall be that of concrete using the same cement and aggregates and admixture, if any, with the same proportions and cured under conditions of temperature and moisture similar to those existing on the work.
 
-#### 11.3.1
-While the above criteria of strength shall be the guiding factor for removal of formwork, in normal circumstances where ambient temperature does not fall below 15°C and following striking period may deem to satisfy the guideline given in 11.3:
+**11.3.1** While the above criteria of strength shall be the guiding factor for removal of formwork, in normal circumstances where ambient temperature does not fall below 15°C and following striking period may deem to satisfy the guideline given in 11.3:
 
-| Sr. No. | Type of Formwork | For Concrete Made Using OPC | For Concrete Made Using Cement Other than OPC or Using Mineral Admixtures Like Fly Ash and Slag |
-|---------|------------------|----------------------------|---------------------------------------------------------------------|
-| i) | Vertical formwork to columns, walls, beams | 16–24 h | 16–24 h |
-| ii) | Soffit formwork to slabs (Props to be refixed immediately after removal of formwork) | 3 days | 7 days |
-| iii) | Soffit formwork to beams (Props to be refixed immediately after removal of formwork) | 7 days | 10 days |
-| iv) 1) | Props to slabs: Spanning up to 4.5 m | 7 days | 10 days |
-| iv) 2) | Props to slabs: Spanning over 4.5 m | 14 days | 14 days |
-| v) 1) | Props to beams and arches: Spanning up to 6 m | 14 days | 14 days |
-| v) 2) | Props to beams and arches: Spanning over 6 m | 21 days | 21 days |
+|<img width="511" height="527" alt="image" src="https://github.com/user-attachments/assets/e57ee7e5-0fec-4ff0-ab14-d3828af7afb8" />
 
 For lower temperature, the stripping time recommended above may be suitably modified.
 
-##### 11.3.1.1
-In case of use of cements other than OPC or in case of use of mineral admixtures like fly ash and slag, in lieu of the minimum period specified in 11.3.1 col 3, the stripping of formwork may be done in accordance with the provisions of 11.3.1 col 2, provided concrete cube testing is done to ensure that the following minimum strength is achieved:
+**11.3.1.1** In case of use of cements other than OPC or in case of use of mineral admixtures like fly ash and slag, in lieu of the minimum period specified in 11.3.1 col 3, the stripping of formwork may be done in accordance with the provisions of 11.3.1 col 2, provided concrete cube testing is done to ensure that the following minimum strength is achieved:
 
 a) 3 days: 45 percent of specified strength  
 b) 7 days: 60 percent of specified strength  
 c) 14 days: 85 percent of specified strength  
 
-#### 11.3.2
-The number of props left under, their sizes and disposition shall be such as to be able to safely carry the full dead load of the slab, beam or arch as the case may be together with any live load likely to occur during curing or further construction.
+**11.3.2** The number of props left under, their sizes and disposition shall be such as to be able to safely carry the full dead load of the slab, beam or arch as the case may be together with any live load likely to occur during curing or further construction.
 
-#### 11.3.3
-Where the shape of the element is such that the formwork has re-entrant angles, the formwork shall be removed as soon as possible after the concrete has set, to avoid shrinkage cracking occurring due to the restraint imposed.
+**11.3.3** Where the shape of the element is such that the formwork has re-entrant angles, the formwork shall be removed as soon as possible after the concrete has set, to avoid shrinkage cracking occurring due to the restraint imposed.
 
 ## 12 ASSEMBLY OF REINFORCEMENT
 
-### 12.1
-Reinforcement shall be bent and fixed in accordance with procedure specified in IS 2502. The high strength deformed steel bars should not be re-bent or straightened without the approval of engineer-in charge. Bar bending schedules shall be prepared for all reinforcement work.
+**12.1** Reinforcement shall be bent and fixed in accordance with procedure specified in IS 2502. The high strength deformed steel bars should not be re-bent or straightened without the approval of engineer-in charge. Bar bending schedules shall be prepared for all reinforcement work.
 
-### 12.2
-All reinforcement shall be placed and maintained in the position shown in the drawings by providing proper cover blocks, spacers, supporting bars, etc.
+**12.2** All reinforcement shall be placed and maintained in the position shown in the drawings by providing proper cover blocks, spacers, supporting bars, etc.
 
-#### 12.2.1
-Crossing bars should not be tack-welded for assembly of reinforcement unless permitted by engineer-in-charge.
+**12.2.1** Crossing bars should not be tack-welded for assembly of reinforcement unless permitted by engineer-in-charge.
 
 ### 12.3 Placing of Reinforcement
 
 Rough handling, shock loading (prior to embedment) and the dropping of reinforcement from a height should be avoided. Reinforcement should be secured against displacement outside the specified limits.
 
-#### 12.3.1 Tolerances on Placing of Reinforcement
+**12.3.1** Tolerances on Placing of Reinforcement
 
 Unless otherwise specified by engineer-in-charge, the reinforcement shall be placed within the following tolerances:
 
 a) for effective depth 200 mm or less: ±10 mm  
 b) for effective depth more than 200 mm: ±15 mm  
 
-#### 12.3.2 Tolerance for Cover
+**12.3.2** Tolerance for Cover
 
-Unless specified otherwise, actual concrete cover should not deviate from the required nominal cover ±10 mm. Nominal cover as given in 26.4.1 should be specified to all steel reinforcement including links. Spacers between the links (or the bars where no links exist) and the form work should be of the same nominal size as the nominal cover.
+Unless specified otherwise, actual concrete cover should not deviate from the required nominal cover ±10 mm. Nominal cover as given in **26.4.1** should be specified to all steel reinforcement including links. Spacers between the links (or the bars where no links exist) and the form work should be of the same nominal size as the nominal cover.
 
 Spacers, chairs and other supports detailed on drawings, together with such other supports as may be necessary, should be used to maintain the specified nominal cover to the steel reinforcement. Spacers or chairs should be placed at a maximum spacing of 1 m and closer spacing may sometimes be necessary. Spacers, cover blocks should be of concrete of same strength or PVC.
 
@@ -686,11 +628,9 @@ Spacers, chairs and other supports detailed on drawings, together with such othe
 
 Welded joints or mechanical connections in reinforcement may be used but in all cases of important connections, tests shall be made to prove that the joints are of the full strength of bars connected. Welding of reinforcements shall be done in accordance with the recommendations of IS 2751 and IS 9417.
 
-### 12.5
-Where reinforcement bars up to 12 mm for high strength deformed steel bars and up to 16 mm for mild steel bars are bent aside at construction joints and afterwards bent back into their original positions, care should be taken to ensure that at no time is the radius of the bend less than 4 bar diameters for plain mild steel or 6 bar diameters for deformed bars. Care shall also be taken when bending back bars, to ensure that the concrete around the bar is not damaged beyond the band.
+**12.5** Where reinforcement bars up to 12 mm for high strength deformed steel bars and up to 16 mm for mild steel bars are bent aside at construction joints and afterwards bent back into their original positions, care should be taken to ensure that at no time is the radius of the bend less than 4 bar diameters for plain mild steel or 6 bar diameters for deformed bars. Care shall also be taken when bending back bars, to ensure that the concrete around the bar is not damaged beyond the band.
 
-### 12.6
-Reinforcement should be placed and tied in such a way that concrete placement be possible without segregation of the mix. Reinforcement placing should allow compaction by immersion vibrator. Within the concrete mass, different types of metal in contact should be avoided to ensure that bimetal corrosion does not take place.
+**12.6** Reinforcement should be placed and tied in such a way that concrete placement be possible without segregation of the mix. Reinforcement placing should allow compaction by immersion vibrator. Within the concrete mass, different types of metal in contact should be avoided to ensure that bimetal corrosion does not take place.
 
 ## 13 TRANSPORTING, PLACING, COMPACTION AND CURING
 
@@ -698,8 +638,7 @@ Reinforcement should be placed and tied in such a way that concrete placement be
 
 After mixing, concrete shall be transported to the formwork as rapidly as possible by methods which will prevent the segregation or loss of any of the ingredients or ingress of foreign matter or water and maintaining the required workability.
 
-#### 13.1.1
-During hot or cold weather, concrete shall be transported in deep containers. Other suitable methods to reduce the loss of water by evaporation in hot weather and heat loss in cold weather may also be adopted.
+**13.1.1** During hot or cold weather, concrete shall be transported in deep containers. Other suitable methods to reduce the loss of water by evaporation in hot weather and heat loss in cold weather may also be adopted.
 
 ### 13.2 Placing
 
@@ -709,8 +648,7 @@ The concrete shall be deposited as nearly as practicable in its final position t
 
 Concrete should be thoroughly compacted and fully worked around the reinforcement, around embedded fixtures and into corners of the formwork.
 
-#### 13.3.1
-Concrete shall be compacted using mechanical vibrators complying with IS 2505, IS 2506, IS 2514 and IS 4656.
+**13.3.1** Concrete shall be compacted using mechanical vibrators complying with IS 2505, IS 2506, IS 2514 and IS 4656.
 
 Whenever vibration has to be applied externally, the design of formwork and the disposition of vibrators should receive special consideration to ensure efficient compaction and to avoid surface blemishes.
 
@@ -730,11 +668,11 @@ Curing is the process of preventing the loss of moisture from the concrete whils
 
 The rate of strength development at early ages of concrete made with super sulphated cement is significantly reduced at lower temperatures. Super sulphated cement concrete is seriously affected by inadequate curing and the surface has to be kept moist for at least seven days.
 
-#### 13.5.1 Moist Curing
+**13.5.1** Moist Curing
 
 Exposed surfaces of concrete shall be kept continuously in a damp or wet condition by ponding or by covering with a layer of sacking, canvas, hessian or similar materials and kept constantly wet for at least seven days from the date of placing concrete in case of ordinary Portland Cement and at least 10 days where mineral admixtures or blended cements are used. The period of curing shall not be less than 10 days for concrete exposed to dry and hot weather conditions. In the case of concrete where mineral admixtures or blended cements are used, it is recommended that above minimum periods may be extended to 14 days.
 
-#### 13.5.2 Membrane Curing
+**13.5.2** Membrane Curing
 
 Approved curing compounds may be used in lieu of moist curing with the permission of the engineer-in charge. Such compounds shall be applied to all exposed surfaces of the concrete as soon as possible after the concrete has set. Impermeable membranes such as polyethylene sheeting covering closely the concrete surface may also be used to provide effective barrier against evaporation.
 
@@ -742,7 +680,7 @@ Approved curing compounds may be used in lieu of moist curing with the permissio
 
 It is exceedingly difficult and costly to alter concrete once placed. Hence, constant and strict supervision of all the items of the construction is necessary during the progress of the work, including the proportioning and mixing of the concrete. Supervision is also of extreme importance to check the reinforcement and its placing before being covered.
 
-#### 13.6.1
+**13.6.1**
 Before any important operation; such as concreting or stripping of the formwork is started adequate notice shall be given to the construction supervisor.
 
 ## 14 CONCRETING UNDER SPECIAL CONDITIONS
@@ -753,17 +691,13 @@ During hot or cold weather, the concreting should be done as per the procedure s
 
 ### 14.2 Under-Water Concreting
 
-#### 14.2.1
-When it is necessary to deposit concrete under water, the methods, equipment, materials and proportions of the mix to be used shall be submitted to and approved by the engineer-in-charge before the work is started.
+**14.2.1** When it is necessary to deposit concrete under water, the methods, equipment, materials and proportions of the mix to be used shall be submitted to and approved by the engineer-in-charge before the work is started.
 
-#### 14.2.2
-Under-water concrete should have a slump recommended in 7.1. The water-cement ratio shall not exceed 0.6 for plain concrete and 0.5 for R.C.C and may need to be smaller, depending on the grade of concrete or the type of chemical attack. For aggregates of 10 mm, 20 mm & 40 mm maximum particle size, the cement content shall be at least 420 kg/m³, 380 kg/m³ & 350 kg/m³ concrete.
+**14.2.2** Under-water concrete should have a slump recommended in 7.1. The water-cement ratio shall not exceed 0.6 for plain concrete and 0.5 for R.C.C and may need to be smaller, depending on the grade of concrete or the type of chemical attack. For aggregates of 10 mm, 20 mm & 40 mm maximum particle size, the cement content shall be at least 420 kg/m³, 380 kg/m³ & 350 kg/m³ concrete.
 
-#### 14.2.3
-Coffer-dams or forms shall be sufficiently tight to ensure still water if practicable, and in any case to reduce the flow of water to less than 3 m/min through the space into which concrete is to be deposited. Coffer-dams or forms in still water shall be sufficiently tight to prevent loss of mortar through the walls. De-watering by pumping shall not be done while concrete is being placed or until 24 h thereafter.
+**14.2.3** Coffer-dams or forms shall be sufficiently tight to ensure still water if practicable, and in any case to reduce the flow of water to less than 3 m/min through the space into which concrete is to be deposited. Coffer-dams or forms in still water shall be sufficiently tight to prevent loss of mortar through the walls. De-watering by pumping shall not be done while concrete is being placed or until 24 h thereafter.
 
-#### 14.2.4
-Concrete cast under water should not fall freely through the water. Otherwise it may be leached and become segregated. Concrete shall be deposited continuously until it is brought to the required height. While depositing, the top surface shall be kept as nearly level as possible and the formation of seams avoided. The methods to be used for depositing concrete under water shall be one of the following:
+**14.2.4** Concrete cast under water should not fall freely through the water. Otherwise it may be leached and become segregated. Concrete shall be deposited continuously until it is brought to the required height. While depositing, the top surface shall be kept as nearly level as possible and the formation of seams avoided. The methods to be used for depositing concrete under water shall be one of the following:
 
 a) **Tremie** - The concrete is placed through vertical pipes the lower end of which is always inserted sufficiently deep into the concrete which has been placed previously but has not set. The concrete emerging from the pipe pushes the material that has already been placed to the side and upwards and thus does not come into direct contact with water.  
 When concrete is to be deposited under water by means of tremie, the top section of the tremie shall be a hopper large enough to hold one entire batch of the mix or the entire contents the transporting bucket, if any. The tremie pipe shall be not less than 200 mm in diameter and shall be large enough to allow a free flow of concrete and strong enough to withstand the external pressure of the water in which it is suspended, even if a partial vacuum develops inside the pipe. Preferably, flanged steel pipe of adequate strength for the job should be used. A separate lifting device shall be provided for each tremie pipe with its hopper at the upper end. Unless the lower end of the pipe is equipped with an approved automatic check valve, the upper end of the pipe shall be plugged with a wadding of the gunny sacking or other approved material before delivering the concrete to the tremie pipe through the hopper, so that when the concrete is forced down from the hopper to the pipe, it will force the plug (and along with it any water in the pipe) down the pipe and out of the bottom end, thus establishing a continuous stream of concrete. It will be necessary to raise slowly the tremie in order to cause a uniform flow of the concrete, but the tremie shall not be emptied so that water enters the pipe. At all times after the placing of concrete is started and until all the concrete is placed, the lower end of the tremie pipe shall be below the top surface of the plastic concrete. This will cause the concrete to build up from below instead of flowing out over the surface, and thus avoid formation of laitance layers. If the charge in the tremie is lost while depositing, the tremie shall be raised above the concrete surface, and unless sealed by a check valve, it shall be re-plugged at the top end, as at the beginning, before refilling for depositing concrete.  
@@ -779,8 +713,7 @@ A stable 1:2 cement-sand grout with a water cement ratio of not less than 0.6 an
 After grouting the whole area for a height of about 600 mm, the same operation shall be repeated, if necessary, for the next layer of 600 mm and so on.  
 The amount of grout to be sent down shall be sufficient to fill all the voids which may be either ascertained or assumed as 55 percent of the volume to be concreted.  
 
-#### 14.2.5
-To minimize the formulation of laitance, great care shall be exercised not to disturb the concrete as far as possible while it is being deposited.
+**14.2.5** To minimize the formulation of laitance, great care shall be exercised not to disturb the concrete as far as possible while it is being deposited.
 
 ## 15 SAMPLING AND STRENGTH OF DESIGNED CONCRETE MIX
 
@@ -788,16 +721,15 @@ To minimize the formulation of laitance, great care shall be exercised not to di
 
 Samples from fresh concrete shall be taken as per IS 1199 and cubes shall be made, cured and tested at 28 days in accordance with IS 516.
 
-#### 15.1.1
-In order to get a relatively quicker idea of the quality of concrete, optional tests on beams for modulus of rupture at 72 ± 2 h or at 7 days, or compressive strength tests at 7 days may be carried out in addition to 28 days compressive strength test. For this purpose the values should be arrived at based on actual testing. In all cases, the 28 days compressive strength specified in Table 2 shall alone be the criterion for acceptance or rejection of the concrete in accordance with 16.
+**15.1.1** In order to get a relatively quicker idea of the quality of concrete, optional tests on beams for modulus of rupture at 72 ± 2 h or at 7 days, or compressive strength tests at 7 days may be carried out in addition to 28 days compressive strength test. For this purpose the values should be arrived at based on actual testing. In all cases, the 28 days compressive strength specified in Table 2 shall alone be the criterion for acceptance or rejection of the concrete in accordance with 16.
 
 ### 15.2 Frequency of Sampling
 
-#### 15.2.1 Sampling procedure
+**15.2.1** Sampling procedure
 
 A random sampling procedure shall be adopted to ensure that each concrete batch shall have a reasonable chance of being tested that is, the sampling should be spread over the entire period of concreting and cover all mixing units.
 
-#### 15.2.2 Frequency
+**15.2.2** Frequency
 
 The minimum frequency of sampling of concrete of each grade shall be in accordance with the following:
 
@@ -841,14 +773,11 @@ The quantity of concrete represented by a group of four consecutive non overlapp
 
 For the individual test result requirements given in col 3 of Table 11 or in item (b) of 16.2, only the particular batch from which the sample was taken shall be at risk. Where the mean rate of sampling is not specified the maximum quantity of concrete that four consecutive test results represent shall be limited to 60 m³.
 
-### 16.4
-If the concrete is deemed not to comply pursuant to 16.1 or 16.2 as the case may be, the structural adequacy of the parts affected shall be investigated (see 17) and any consequential action as needed shall be taken.
+**16.4** If the concrete is deemed not to comply pursuant to 16.1 or 16.2 as the case may be, the structural adequacy of the parts affected shall be investigated (see 17) and any consequential action as needed shall be taken.
 
-### 16.5
-Concrete of each grade shall be assessed separately.
+**16.5** Concrete of each grade shall be assessed separately.
 
-### 16.6
-Concrete is liable to be rejected if it is porous or honey-combed, its placing has been interrupted without providing a proper construction joint, the reinforcement has been displaced beyond the tolerances specified, or construction tolerances have not been met. However, the hardened concrete may be accepted after carrying out suitable remedial measures to the satisfaction of the engineer-in-charge.
+**16.6** Concrete is liable to be rejected if it is porous or honey-combed, its placing has been interrupted without providing a proper construction joint, the reinforcement has been displaced beyond the tolerances specified, or construction tolerances have not been met. However, the hardened concrete may be accepted after carrying out suitable remedial measures to the satisfaction of the engineer-in-charge.
 
 **Table 11 Characteristic Compressive Strength Compliance Requirement**  
 *(Clauses 16.1 and 16.3)*
@@ -867,10 +796,9 @@ Concrete is liable to be rejected if it is porous or honey-combed, its placing h
 
 To ensure that the construction complies with the design an inspection procedure should be set up covering materials, records, workmanship and construction.
 
-#### 17.1.1
-Tests should be made on reinforcement and the constituent materials of concrete in accordance with the relevant standards. Where applicable, use should be made of suitable quality assurance schemes.
+**17.1.1** Tests should be made on reinforcement and the constituent materials of concrete in accordance with the relevant standards. Where applicable, use should be made of suitable quality assurance schemes.
 
-#### 17.1.2
+**17.1.2**
 Care should be taken to see that:
 
 a) design and detail are capable of being executed to a suitable standard, with due allowance for dimensional tolerances;  
@@ -879,8 +807,7 @@ c) there are clear instructions on permissible deviations;
 d) elements critical to workmanship, structural performance, durability and appearance are identified; and  
 e) there is a system to verify that the quality is satisfactory in individual parts of the structure, especially the critical ones.  
 
-### 17.2
-Immediately after stripping the formwork, all concrete shall be carefully inspected and any defective work or small defects either removed or made good before concrete has thoroughly hardened.
+**17.2** Immediately after stripping the formwork, all concrete shall be carefully inspected and any defective work or small defects either removed or made good before concrete has thoroughly hardened.
 
 ### 17.3 Testing
 
@@ -888,30 +815,23 @@ In case of doubt regarding the grade of concrete used, either due to poor workma
 
 ### 17.4 Core Test
 
-#### 17.4.1
-The points from which cores are to be taken and the number of cores required shall be at the discretion of the engineer-in-charge and shall be representative of the whole of concrete concerned. In no case, however, shall fewer than three cores be tested.
+**17.4.1** The points from which cores are to be taken and the number of cores required shall be at the discretion of the engineer-in-charge and shall be representative of the whole of concrete concerned. In no case, however, shall fewer than three cores be tested.
 
-#### 17.4.2
-Cores shall be prepared and tested as described in IS 516.
+**17.4.2** Cores shall be prepared and tested as described in IS 516.
 
-#### 17.4.3
-Concrete in the member represented by a core test shall be considered acceptable if the average equivalent cube strength of the cores is equal to at least 85 percent of the cube strength of the grade of concrete specified for the corresponding age and no individual core has a strength less than 75 percent.
+**17.4.3** Concrete in the member represented by a core test shall be considered acceptable if the average equivalent cube strength of the cores is equal to at least 85 percent of the cube strength of the grade of concrete specified for the corresponding age and no individual core has a strength less than 75 percent.
 
 ### 17.6 Load Tests for Flexural Member
 
-#### 17.6.1
-Load tests should be carried out as soon as possible after expiry of 28 days from the time of placing of concrete.
+**17.6.1** Load tests should be carried out as soon as possible after expiry of 28 days from the time of placing of concrete.
 
-#### 17.6.2
-The structure should be subjected to a load equal to full dead load of the structure plus 1.25 times the imposed load for a period of 24 h and then the imposed load shall be removed.
+**17.6.2** The structure should be subjected to a load equal to full dead load of the structure plus 1.25 times the imposed load for a period of 24 h and then the imposed load shall be removed.
 
 **NOTE** - Dead load includes self weight of the structural members plus weight of finishes and walls or partitions, if any, as considered in the design.
 
-#### 17.6.3
-The deflection due to imposed load only shall be recorded. If within 24 h of removal of the imposed load, the structure does not recover at least 75 percent of the deflection under superimposed load, the test may be repeated after a lapse of 72 h. If the recovery is less than 80 percent, the structure shall be deemed to be unacceptable.
+**17.6.3** The deflection due to imposed load only shall be recorded. If within 24 h of removal of the imposed load, the structure does not recover at least 75 percent of the deflection under superimposed load, the test may be repeated after a lapse of 72 h. If the recovery is less than 80 percent, the structure shall be deemed to be unacceptable.
 
-##### 17.6.3.1
-If the maximum deflection in mm, shown during 24 h under load is less than 40l²/D, where l is the effective span in m; and D, the overall depth of the section in mm, it is not necessary for the recovery to be measured and the recovery provisions of 17.6.3 shall not apply.
+**17.6.3.1** If the maximum deflection in mm, shown during 24 h under load is less than 40l²/D, where l is the effective span in m; and D, the overall depth of the section in mm, it is not necessary for the recovery to be measured and the recovery provisions of 17.6.3 shall not apply.
 
 ### 17.7 Members Other Than Flexural Members
 
