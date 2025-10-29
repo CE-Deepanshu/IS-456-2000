@@ -311,9 +311,7 @@ The free water-cement ratio is an important factor in governing the durability o
 
 Cement content not including fly ash and ground granulated blast furnace slag in excess of 450 kg/m³ should not be used unless special consideration has been given in design to the increased risk of cracking due to drying shrinkage in thin sections, or to early thermal cracking and to the increased risk of damage due to alkali silica reactions.
 
-<img width="434" height="548" alt="image" src="https://github.com/user-attachments/assets/e277e62a-157b-4a7d-8d01-cb007fa9b19b" />
-
-<img width="436" height="324" alt="image" src="https://github.com/user-attachments/assets/a72b0963-5057-4dfe-b355-180cba379876" />
+<img width="759" height="509" alt="image" src="https://github.com/user-attachments/assets/60e0ce8a-0e97-4196-9ca2-b37a572c9e42" />
 
 **Notes:**
 
