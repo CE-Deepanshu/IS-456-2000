@@ -284,36 +284,43 @@ Effective depth of a beam is the distance between centroid of tension reinforcem
 ### **23.1 T-Beams and L-Beams**
 
 **23.1.1 General**
-A slab acting as compression flange of a T-beam or L-beam shall satisfy:  
+
+A slab which is assumed to be acting as compression flange of a T-beam or L-beam shall satisfy:  
 
 a) Slab shall be cast integrally with web, or the web and the slab shall be effectively bonded by other manners; and.  
 b) If main reinforcement of slab is parallel to beam, transverse reinforcement shall be provided as in **Fig. 3**; such reinforcement shall not be less than 60 % of the main reinforcement at mid-span of the slab.  
 
 **23.1.2** Effective Width of Flange
+
 In absence of more accurate determination, effective width of flange may be taken as below, but not greater than the breadth of web plus half the sum of clear distances to adjacent beams on either side.  
 
-**a)** For T-beams  
+a) For T-beams 
+
 $$
 b_f = \frac{l_0}{6} + b_w + 6D_f
 $$  
 
-**b)** For L-beams  
+b) For L-beams 
+
 $$
 b_f = \frac{l_0}{12} + b_w + 3D_f
 $$  
 
-**c)** For isolated beams**,**  
-effective flange width shall be obtained as below, but not greater than actual width.  
+c) For isolated beams, effective flange width shall be obtained as below, but not greater than actual width.  
 
-For T-beam:  
-$$
-b_x = \frac{l_0}{\left(\frac{l_0}{b}\right)+4} + b_w
-$$  
 
-For L-beam:  
+**For T-beam:**
+
 $$
-b_x = 0.5\,\frac{l_0}{\left(\frac{l_0}{b}\right)+4} + b_w
-$$  
+b_f = \frac{l_0}{\left(\frac{l_0}{b}\right) + 4} + b_w
+$$
+
+**For L-beam:**
+
+$$
+b_f = \frac{0.5\,l_0}{\left(\frac{l_0}{b}\right) + 4} + b_w
+$$
+ 
 
 where:  
 
@@ -339,9 +346,9 @@ b) Deflection  including temperature, creep and shrinkage occurring after erecti
 
 a) Basic values of span to effective depth ratios for spans up to 10 m:
 
-- Cantilever: 7  
-- Simply supported: 20  
-- Continuous: 26
+| Cantilever| 7 | 
+| Simply supported | 20 |  
+| Continuous | 26 |
 
 b) For spans above 10 m, the values in (a) may be multiplied by 10/span in metres, except for cantilever in which case deflection calculations should be made.
 
