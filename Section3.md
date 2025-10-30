@@ -707,7 +707,7 @@ End-bearing splices shall be used only for bars in compression. The ends of the 
 
 **26.3.1** For the purpose of this clause, the diameter of a round bar shall be its nominal diameter, and in the case of bars which are not round or in the case of deformed bars or crimped bars, the diameter shall be taken as the diameter of a circle giving an equivalent effective area. Where spacing limitations and minimum concrete cover (see 26.4) are based on bar diameter, a group of bars bundled in contact shall be treated as a single bar of diameter derived from the total equivalent area.
 
-**26.3.2 Minimum Distance Between Individual Bars**
+**26.3.2** Minimum Distance Between Individual Bars
 
 The following shall apply for spacing of bars:
 
@@ -754,6 +754,10 @@ Minimum values for the nominal cover of normal weight aggregate concrete which s
 **26.4.3** Nominal Cover to Meet Specified Period of Fire Resistance
 Minimum values of nominal cover of normal-weight aggregate concrete to be provided to all reinforcement including links to meet specified period of fire resistance shall be given in Table 16A.
 
+<img width="959" height="476" alt="image" src="https://github.com/user-attachments/assets/bf8d8d73-41cf-47af-bc5d-b1360820fc09" />
+
+<img width="904" height="529" alt="image" src="https://github.com/user-attachments/assets/e530cd4d-5ef1-4819-9b1b-c9fc902e9699" />
+
 ---
 
 ### **26.5 Requirements of Reinforcement for Structural Members**
@@ -762,7 +766,7 @@ Minimum values of nominal cover of normal-weight aggregate concrete to be provid
 
 **26.5.1.1** Tension reinforcement
 
-**a) Minimum reinforcement** — The minimum area of tension reinforcement shall be not less than that given by the following:
+a) Minimum reinforcement — The minimum area of tension reinforcement shall be not less than that given by the following:
 
 $$\frac{A_s}{bd} = \frac{0.85}{f_y}$$
 
@@ -780,7 +784,7 @@ b) Maximum reinforcement—The maximum area of tension reinforcement shall not e
 
 **NOTE** – The use of 4% reinforcement may involve practical difficulty in placing & compaction of concrete hence lower percentage is recommended.
 
-**26.5.1.2 Compression reinforcement**
+**26.5.1.2** Compression reinforcement
 
 The maximum area of compression reinforcement shall not exceed 0.04 bD. Compression reinforcement in beams shall be enclosed by stirrups for effective lateral restraint. The arrangement of stirrups shall be as specified in 26.5.3.2.
 
@@ -801,7 +805,7 @@ The maximum spacing of shear reinforcement measured along the axis of the member
 
 Minimum shear reinforcement in the form of stirrups shall be provided such that:
 
-$$\frac{A_sv}{bs_v} = \frac{0.4}{0.87f_y}$$
+$$\frac{A_sv}{bs_v} ≥ \frac{0.4}{0.87f_y}$$
 
 where
 
@@ -894,3 +898,15 @@ d) Helical reinforcement
 2. The diameter of the helical reinforcement shall be in accordance with **26.5.3.2 (c) (2)**.
 
 **26.5.3.3** In columns where longitudinal bars are offset at a splice, the slope of the inclined portion of the bar with the axis of the column shall not exceed 1 in 6, and the portions of the bar above and below the offset shall be parallel to the axis of the column. Adequate horizontal support at the offset bends shall be treated as a matter of design, and shall be provided by metal ties, spirals, or parts of the floor construction. Metal ties or spirals so designed shall be placed near (not more than eight-bar diameters) from the point of bend. The horizontal thrust to be resisted shall be assumed as one and half times the horizontal components of the nominal stress in the inclined portion of the bar. Offset bars shall be bent before they are placed in the forms. Where column faces are offset 75 mm or more, splices of vertical bars adjacent to the offset face shall be made by separate dowels overlapped as specified in **26.2.5.1**.
+
+----
+
+## **27 EXPANSION JOINTS**
+
+**27.1** Structures in which marked changes in plan dimensions take place abruptly shall be provided with expansion joints at the section where such changes occur. Expansion joints shall be so provided that the necessary movement occurs with a minimum resistance at the joint. The structures adjacent to the joint should preferably be supported on separate columns or walls but not necessarily on separate foundations. Reinforcement shall not extend across an expansion joint and the break between the sections shall be complete. 
+
+**27.2** The details as to the length of a structure where expansion joints have to be provided can be determined after taking into consideration  various factors, such as temperature, exposure to weather, the time and season of the laying of the concrete, etc. Normally structures exceeding  45 m in length are designed with one or more expansion joints. However in view of the large number of factors involved in deciding the  location, spacing and nature of expansion joints, the provision of expansion joint in reinforced cement concrete structures should be left to the  discretion of the designer. IS 3414 gives the design considerations, which need to be examined and provided for.
+
+<img width="963" height="833" alt="image" src="https://github.com/user-attachments/assets/ac0f8ffb-d5c9-4a02-839d-8e9fc27dfb83" />
+
+---
