@@ -5,8 +5,7 @@
 ## **18 BASES FOR DESIGN**
 
 ### **18.1 Aim of Design**
-The aim of design is the achievement of an acceptable probability that structures being designed will perform satisfactorily during their intended life.  
-With an appropriate degree of safety, they should sustain all the loads and deformations of normal construction and use and have adequate durability and adequate resistance to the effects of misuse and fire.
+The aim of design is the achievement of an acceptable probability that structures being designed will perform satisfactorily during their intended life.  With an appropriate degree of safety, they should sustain all the loads and deformations of normal construction and use and have adequate durability and adequate resistance to the effects of misuse and fire.
 
 ---
 
@@ -21,7 +20,7 @@ Designs based on experimental investigations on models or full-size structure or
 
 **18.2.3.1** Where the design is based on experimental investigation on full-size structure or element, load tests shall be carried out to ensure the following:
 
-**a)** The structure shall satisfy the requirements for deflection (see 23.2) and cracking (see 35.3.2) when subjected to a load for 24 h equal to the characteristic load multiplied by 1.33 γ, where γ shall be taken from Table 18, for the limit state of serviceability. If within 24 h of the removal of the load, the structure does not show a recovery of at least 75 percent of the maximum deflection shown during the 24 h under the load, the test loading should be repeated after a lapse of 72 h. The recovery after the second test should be at least 75 percent of the maximum deflection shown during the second test.  
+ a) The structure shall satisfy the requirements for deflection (see 23.2) and cracking (see 35.3.2) when subjected to a load for 24 h equal to the characteristic load multiplied by 1.33 γ, where γ shall be taken from Table 18, for the limit state of serviceability. If within 24 h of the removal of the load, the structure does not show a recovery of at least 75 percent of the maximum deflection shown during the 24 h under the load, the test loading should be repeated after a lapse of 72 h. The recovery after the second test should be at least 75 percent of the maximum deflection shown during the second test.  
 
 > **NOTE —** If the maximum deflection in mm shown during 24 h under load is less than  
 > 
@@ -31,7 +30,7 @@ Designs based on experimental investigations on models or full-size structure or
 > 
 > where *l* is the effective span in m and *D* is the overall depth of the section in mm, it is not necessary for the recovery to be measured.  
 
-**b)** The structure shall have adequate strength to sustain for 24 h a total load equal to the characteristic load multiplied by 1.33 γ, where γ shall be taken from Table 18 for the limit state of collapse.  
+ b) The structure shall have adequate strength to sustain for 24 h a total load equal to the characteristic load multiplied by 1.33 γ, where γ shall be taken from Table 18 for the limit state of collapse.  
 
 ---
 
