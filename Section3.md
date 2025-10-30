@@ -738,3 +738,159 @@ b) Slabs
 <img width="941" height="356" alt="image" src="https://github.com/user-attachments/assets/bfcc85ce-aa59-474f-a7fc-b617c1a7859e" />
 
 ---
+
+### **26.4 Nominal Cover to Reinforcement**
+
+**26.4.1** Nominal Cover
+Nominal cover is the design depth of concrete cover to all steel reinforcements, including links. It is the dimension used in design and indicated in the drawings. It shall be not less than the diameter of the bar.
+
+**26.4.2** Nominal Cover to Meet Durability Requirement
+Minimum values for the nominal cover of normal weight aggregate concrete which should be provided to all reinforcement, including links depending on the condition of exposure described in 8.2.2 shall be as given in Table 16.
+
+**26.4.2.1** However for a longitudinal reinforcing bar in a column nominal cover shall in any case not be less than 40 mm, or less than the diameter of such bar. In the case of columns of minimum dimension of 200 mm or under, whose reinforcing bars do not exceed 12 mm, a nominal cover of 25 mm may be used.
+
+**26.4.2.2** For footings minimum cover shall be 50 mm.
+
+**26.4.3** Nominal Cover to Meet Specified Period of Fire Resistance
+Minimum values of nominal cover of normal-weight aggregate concrete to be provided to all reinforcement including links to meet specified period of fire resistance shall be given in Table 16A.
+
+---
+
+### **26.5 Requirements of Reinforcement for Structural Members**
+
+**26.5.1** Beams
+
+**26.5.1.1** Tension reinforcement
+
+**a) Minimum reinforcement** — The minimum area of tension reinforcement shall be not less than that given by the following:
+
+$$\frac{A_s}{bd} = \frac{0.85}{f_y}$$
+
+where
+
+A<sub>s</sub> = minimum area of tension reinforcement,
+
+b = breadth of beam or the breadth of the web of T-beam,
+
+d = effective depth, and
+
+f<sub>y</sub> = characteristic strength of reinforcement in N/mm².
+
+b) Maximum reinforcement—The maximum area of tension reinforcement shall not exceed 0.04 bD.
+
+**NOTE** – The use of 4% reinforcement may involve practical difficulty in placing & compaction of concrete hence lower percentage is recommended.
+
+**26.5.1.2 Compression reinforcement**
+
+The maximum area of compression reinforcement shall not exceed 0.04 bD. Compression reinforcement in beams shall be enclosed by stirrups for effective lateral restraint. The arrangement of stirrups shall be as specified in 26.5.3.2.
+
+**NOTE** – The use of 4% reinforcement may involve practical difficulty in placing & compaction of concrete hence lower percentage is recommended.
+
+**26.5.1.3** Side face reinforcement
+
+Where the depth of the web in a beam exceeds 750 mm, side face reinforcement shall be provided along the two faces. The total area of such reinforcement shall be not less than 0.1 percent of the web area and shall be distributed equally on two faces at a spacing not exceeding 300 mm or web thickness whichever is less.
+
+**26.5.1.4** Transverse reinforcement in beams for shear and torsion
+
+The transverse reinforcement in beams shall be taken around the outer-most tension and compression bars. In T-beams and I-beams, such reinforcement shall pass around longitudinal bars located close to the outer face of the flange.
+
+**26.5.1.5** Maximum spacing of shear reinforcement
+The maximum spacing of shear reinforcement measured along the axis of the member shall not exceed 0.75 d for vertical stirrups and d for inclined stirrups at 45º, where d is the effective depth of the section under consideration. In no case shall the spacing exceed 300 mm.
+
+**26.5.1.6** Minimum shear reinforcement
+
+Minimum shear reinforcement in the form of stirrups shall be provided such that:
+
+$$\frac{A_sv}{bs_v} = \frac{0.4}{0.87f_y}$$
+
+where
+
+A<sub>sv</sub> = total cross-sectional area of stirrup legs effective in shear,
+
+s<sub>v</sub> = stirrup spacing along the length of the member
+
+b = breadth of the beam or breadth of the web of flanged beam, and
+
+f<sub>y</sub> = characteristic strength of the stirrup reinforcement in N/mm²
+
+**26.5.1.7** Distribution of torsion reinforcement
+
+When a member is designed for torsion (see 41 or B-6) torsion reinforcement shall be provided as below:
+
+a) The transverse reinforcement for torsion shall be rectangular closed stirrups placed perpendicular to the axis of the member. The spacing of the stirrups shall not exceed the least of x<sub>1</sub>, $$\frac{(x_1 + y_1)}{4}$$, and 300 mm, where x<sub>1</sub> and y<sub>1</sub> are respectively the short and long dimensions of the stirrup.
+
+b) Longitudinal reinforcement shall be placed as close as is practicable to the corners of the cross-section and in all cases, there shall be at least one longitudinal bar in each corner of the ties. When the cross-sectional dimension of the member exceeds 450 mm, additional longitudinal bars shall be provided to satisfy the requirements of minimum reinforcement and spacing given in 26.5.1.3.
+
+**26.5.1.8 Reinforcement in flanges of T- and L-beams**
+
+Flanges shall satisfy the requirements in 23.1.1(b). Where flanges are in tension, a part of the main tension reinforcement shall be distributed over the effective flange width or a width equal to one-tenth of the span, whichever is smaller. If the effective flange width exceeds one-tenth of the span, nominal longitudinal reinforcement shall be provided in the outer portions of the flange.
+
+**26.5.2 Slabs**
+
+The rules given in 26.5.2.1 and 26.5.2.2 shall apply to slabs in addition to those given in the appropriate clauses.
+
+**26.5.2.1 Minimum reinforcement**
+
+The mild steel reinforcement in either direction in slabs shall not be less than 0.15 percent of the total cross sectional area, However, this value can be reduced to 0.12 percent when high strength deformed bars or welded wire fabric are used.
+
+**26.5.2.2 Maximum diameter**
+The diameter of reinforcing bars shall not exceed one-eight of the total thickness of the slab.
+
+**26.5.3 Columns**
+
+**26.5.3.1 Longitudinal reinforcement**
+a) The cross sectional area of longitudinal reinforcement, shall be not less than 0.8 percent nor more than 6 percent of the gross cross sectional area of the column,
+
+**NOTE** - The use of 6 percent reinforcement may involve practical difficulties in placing and compacting of concrete; hence lower percentage is recommended. Where bars from the columns below have to be lapped with those in the column under consideration, the percentage of steel shall usually not exceed 4 percent.
+
+b) In any column that has a larger cross-sectional area than that required to support the load, the minimum percentage of steel shall be based upon the area of concrete required to resist the direct stress and not upon the actual area.
+
+c) The minimum number of longitudinal bars provided in a column shall be four in rectangular columns and six in circular columns,
+
+d) The bars shall not be less than 12 mm in diameter,
+
+e) A reinforced concrete column having helical reinforcement shall have at least six bars of longitudinal reinforcement within the helical reinforcement.
+
+f) In a helically reinforced column, the longitudinal bars shall be in contact with the helical reinforcement and equidistant around its inner circumference.
+
+g) Spacing of longitudinal bars measured along the periphery of the column shall not exceed 300 mm.
+h) In case of pedestals in which the longitudinal reinforcement is not taken in account in strength calculations, nominal longitudinal reinforcement not less than 0.15 percent of the cross-sectional area shall be provided.
+
+**NOTE** — Pedestal is a compression member, the effective length of which does not exceed three times the least lateral dimension.
+
+**26.5.3.2** Transverse reinforcement
+
+a) General — A reinforced concrete compression member shall have transverse or helical reinforcement so disposed that every longitudinal bar nearest to the compression face has effective lateral support against buckling subject to provisions in (b). The effective lateral support is given by transverse reinforcement either in the form of circular rings capable of taking up circumferential tension or by polygonal links (lateral ties) with internal angles not exceeding 135°. The ends of the transverse reinforcement shall be properly anchored [see 26.2.2.4 (b)].
+
+b) Arrangement of transverse reinforcement
+
+  1. If the longitudinal bars are not spaced more than 75 mm on either side, transverse reinforcement need only go round corner and alternate bars for the purpose of providing effective lateral supports (see Fig. 8).
+
+  2. If the longitudinal bars spaced at a distance of not exceeding 48 times the diameter of the tie are effectively tied in two directions, additional longitudinal bars in between these bars need to be tied in one direction by open ties (see Fig. 9).
+  3. Where the longitudinal reinforcing bars in a compression member are placed in more than one row, effective lateral support to the longitudinal bars in the inner rows may be assumed to have been provided if:
+
+     i) transverse reinforcement is provided for the outer-most row in accordance with 26.5.3.2, and
+
+     ii) no bar of the inner row is closer to the nearest compression face than three times the diameter of the largest bar in the inner row (see **Fig. 10**).
+
+4. Where the longitudinal bars in a compression member are grouped (not in contact) and each group adequately tied with transverse reinforcement in accordance with **26.5.3.2**, the transverse reinforcement for the compression member as a whole may be provided on the assumption that each group is a single longitudinal bar for purpose of determining the pitch and diameter of the transverse reinforcement in accordance with **26.5.3.2**.
+
+c) Pitch and diameter of lateral ties**
+
+1. Pitch — The pitch of transverse reinforcement shall be not more than the least of the following distances:
+
+i) The least lateral dimension of the compression member;
+  
+ii) Sixteen times the smallest diameter of the longitudinal reinforcement bar to be tied; and
+
+iii) 300 mm.
+
+2. Diameter — The diameter of the polygonal links or lateral ties shall be not less than one-fourth of the diameter of the largest longitudinal bar, and in no case less than 16 mm.
+
+d) Helical reinforcement
+
+1. Pitch — Helical reinforcement shall be of regular formation with the turns of the helix spaced evenly and its ends shall be anchored properly by providing one and a half extra turns of the spiral bar. Where an increased load on the column on the strength of the helical reinforcement is allowed for, the pitch of helical turns shall be not more than 75 mm, nor more than one-sixth of the core diameter of the column, nor less than 25 mm, nor less than three times the diameter of the steel bar forming the helix. In other cases, the requirements of 26.5.3.2 shall be complied with.
+
+2. The diameter of the helical reinforcement shall be in accordance with **26.5.3.2 (c) (2)**.
+
+**26.5.3.3** In columns where longitudinal bars are offset at a splice, the slope of the inclined portion of the bar with the axis of the column shall not exceed 1 in 6, and the portions of the bar above and below the offset shall be parallel to the axis of the column. Adequate horizontal support at the offset bends shall be treated as a matter of design, and shall be provided by metal ties, spirals, or parts of the floor construction. Metal ties or spirals so designed shall be placed near (not more than eight-bar diameters) from the point of bend. The horizontal thrust to be resisted shall be assumed as one and half times the horizontal components of the nominal stress in the inclined portion of the bar. Offset bars shall be bent before they are placed in the forms. Where column faces are offset 75 mm or more, splices of vertical bars adjacent to the offset face shall be made by separate dowels overlapped as specified in **26.2.5.1**.
