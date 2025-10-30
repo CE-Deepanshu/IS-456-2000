@@ -332,6 +332,7 @@ where:
 
 > **NOTE —** For continuous beams and frames, *l* may be assumed as 0.7 times effective span.  
 
+<img width="975" height="694" alt="image" src="https://github.com/user-attachments/assets/49a93d37-5fb9-4883-af55-5d557ce6e6d5" />
 
 ---
 
@@ -361,8 +362,6 @@ d) Depending on the area of compression reinforcement, the value of span to dept
 
 e) For flanged beams, the values of (a) or (b) be modified as per Fig. 6 and the reinforcement percentage for use in Fig. 4 and 5 should be based on area of section equal to b₁ d.
 NOTE—When deflections are required to be calculated, the method given in Annex C may be used.
-
-<img width="975" height="694" alt="image" src="https://github.com/user-attachments/assets/49a93d37-5fb9-4883-af55-5d557ce6e6d5" />
 
 ---
 
