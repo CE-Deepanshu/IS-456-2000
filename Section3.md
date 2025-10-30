@@ -258,12 +258,14 @@ Where a member is built into a masonry wall developing only partial restraint, d
 
 **22.6.1** For monolithic construction, use moments computed at the face of supports for design at those sections. For non-monolithic construction, design in accordance with **22.2**.  
 
-**22.6.2 Critical Section for Shear**
+**22.6.2** Critical Section for Shear
 The shears computed at the face of support shall be used in the design for member at that section, except as in 22.6.2.1.  
 
 **22.6.2.1** When the reaction in the direction of applied shear introduces compression into the end region of the member, sections located at a distance &lt; *d* from the face of support may be designed for same shear as computed at distance *d*.  
 
 > **NOTE —** The above clauses are applicable for beams generally carrying uniformly distributed load or where principal load is located farther than 2*d* from the support face.  
+
+<img width="522" height="421" alt="image" src="https://github.com/user-attachments/assets/f1806b23-395a-49a2-a8a4-489811cd35c3" />
 
 ---
 
