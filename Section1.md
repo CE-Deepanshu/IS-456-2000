@@ -101,16 +101,4 @@ For the purpose of this standard, the following letter symbols shall have the me
 | **τ<sub>cmax</sub>** | Maximum shear stress in concrete with shear reinforcement |
 | **τ<sub>c</sub>** | Shear stress in concrete without shear reinforcement |
 | **φ** | Diameter of bar |
-## Clause 23.1.2 (c) — Effective Width of Flange (as per IS 456:2000)
 
-**For T-beam:**
-
-$$
-b_f = \frac{l_0}{\left(\frac{l_0}{b}\right) + 4} + b_w
-$$
-
-**For L-beam:**
-
-$$
-b_f = \frac{0.5\,l_0}{\left(\frac{l_0}{b}\right) + 4} + b_w
-$$
