@@ -1,7 +1,7 @@
 # IS-456-2000
 ## Indian Standard  
 ## PLAIN AND REINFORCED CONCRETE  CODE OF PRACTICE  ( Fourth Revision)
-Note: Content of website includes all changes due to **Amendment no. 1, 2, 3, 4, 5 & 6**
+Note: Content of website includes all changes made due to **Amendment no. 1, 2, 3, 4, 5 & 6**
 ## BUREAU OF INDIAN STANDARDS
 ## [FOREWORD](Foreword.html)
 ## CONTENT
