@@ -5,6 +5,6 @@ Note: Content of website includes all changes due to **Amendment no. 1, 2, 3, 4,
 ## BUREAU OF INDIAN STANDARDS
 ## [FOREWORD](Foreword.html)
 ## CONTENT
-### SECTION 1 GENERAL
+### [SECTION 1 GENERAL](Section1.md)
 ### [SECTION 2 MATERIALS, WORKMANSHIP, INSPECTION AND TESTING](Section2.md)
 
