@@ -528,3 +528,11 @@ D = depth of the cross-section measured in the plane under consideration.
 All columns shall be designed for minimum eccentricity, equal to the unsupported length of column/500 plus lateral dimensions/30, subject to a minimum of 20 mm. Where bi-axial bending is considered, it is sufficient to ensure that eccentricity exceeds the minimum about one axis at a time.
 
 ---
+## **26 REQUIREMENTS GOVERNING REINFORCEMENT AND DETAILING**
+
+### **26.1 General**
+Reinforcing steel of same type and grade shall be used as main reinforcement in a structural member. However, simultaneous use of two different types or grades of steel for main and secondary reinforcement respectively is permissible.
+
+**26.1.1** Bars may be arranged singly, or in pairs in contact, or in groups of three or four bars bundled in contact. Bundled bars shall be enclosed within stirrups or ties. Bundled bars shall be tied together to ensure the bars remaining together. Bars larger than 32 mm diameter shall not be bundled, except in columns. Congestion of reinforcement should be avoided during detailing. Various methods such as choosing the diameter and grade of steel carefully and bundling of reinforcement, if required, are available.
+
+**26.1.2** The recommendations for detailing for earthquake-resistant construction given in IS 13920 should be taken into consideration, where applicable (see also IS 4326).
