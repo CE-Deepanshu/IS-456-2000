@@ -486,18 +486,24 @@ The loads on beams supporting solid slabs spanning in two directions at right an
 **25.1.1** Column or strut is a compression member, the effective length of which exceeds three times the least lateral dimension.
 
 **25.1.2** Short and Slender Compression Members
-A compression member may be considered as short when both the slenderness ratios \frac{l<sub>ex</sub>}{D} and \frac{l<sub>ey</sub>}{b} are less than 12:
+A compression member may be considered as short when both the slenderness ratios $$\frac{l_ex}{D}$$ and $$\frac{l_ey}{b}$$ are less than 12:
 where
 l<sub>ex</sub> = effective length in respect of the major axis,
 D = depth in respect of the major axis,
 l<sub>ey</sub> = effective length in respect of the minor axis, and
 b = width of the member.
 It shall otherwise be considered as a slender compression member.
+
 **25.1.3** Unsupported Length
+
 The unsupported length l, of a compression member shall be taken as the clear distance between end restraints except that:
+
 a) in flat slab construction, it shall be clear distance between the floor and the lower extremity of the capital, the drop panel or slab whichever is the least.
+
 b) in beam and slab construction, it shall be the clear distance between the floor and the underside of the shallower beam framing into the columns in each direction at the next higher floor level.
+
 c) in columns restrained laterally by struts, it shall be the clear distance between consecutive struts in each vertical plane, provided that to be an adequate support, two such struts shall meet the columns at approximately the same level and the angle between vertical planes through the struts shall not vary more than 30° from a right angle. Such struts shall be of adequate dimensions and shall have sufficient anchorage to restrain the member against lateral deflection.
+
 d) in columns restrained laterally by struts or beams, with brackets used at the junction, it shall be the clear distance between the floor and the lower edge of the bracket, provided that the bracket width equals that of the beam strut and is at least half that of the column.
 
 ---
