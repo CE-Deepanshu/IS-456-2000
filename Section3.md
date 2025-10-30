@@ -122,8 +122,7 @@ In cases where dead load provides the restoring moment, only **0.9 × characteri
 ---
 
 ### **20.2 Sliding**
-The structure shall have a factor of safety against sliding of not less than 1.4 under the most adverse combination of the applied characteristic forces.  
-In this case, only **0.9 × characteristic dead load** shall be taken into account.  
+The structure shall have a factor of safety against sliding of not less than 1.4 under the most adverse combination of the applied characteristic forces. In this case, only **0.9 × characteristic dead load** shall be taken into account.  
 
 ---
 
