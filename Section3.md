@@ -696,4 +696,34 @@ End-bearing splices shall be used only for bars in compression. The ends of the 
 
 ---
 
+### **26.3 Spacing of Reinforcement**
 
+**26.3.1** For the purpose of this clause, the diameter of a round bar shall be its nominal diameter, and in the case of bars which are not round or in the case of deformed bars or crimped bars, the diameter shall be taken as the diameter of a circle giving an equivalent effective area. Where spacing limitations and minimum concrete cover (see 26.4) are based on bar diameter, a group of bars bundled in contact shall be treated as a single bar of diameter derived from the total equivalent area.
+
+**26.3.2 Minimum Distance Between Individual Bars**
+
+The following shall apply for spacing of bars:
+
+a) The horizontal distance between two parallel main reinforcing bars shall usually be not less than the greatest of the following:
+
+1) The diameter of the bar if the diameters are equal,
+ The diameter of the larger bar if the diameters are unequal, and
+
+3) 5 mm more than the nominal maximum size of coarse aggregate.
+**NOTE**-This does not preclude the use of larger size of aggregates beyond the congested reinforcement in the same member; the size of aggregates may be reduced around congested reinforcement to comply with this provision,
+
+b) Greater horizontal distance than the minimum specified in (a) should be provided wherever possible. However when needle vibrators are used the horizontal distance between bars of a group may be reduced to two-thirds the nominal maximum size of the coarse aggregate, provided that sufficient space is left between groups of bars to enable the vibrator to be immersed.
+
+c) Where there are two or more rows of bars, the bars shall be vertically in line and the minimum vertical distance between the bars shall be 15 mm, two-thirds the nominal maximum size of aggregate or the maximum size of bars, whichever is greater.
+
+**26.3.3** Maximum Distance Between Bars in Tension
+
+Unless the calculation of crack widths shows that a greater spacing is acceptable, the following rules shall be applied to flexural members in normal internal or external conditions of exposure.
+
+a) Beams — The horizontal distance between parallel reinforcement bars, or groups, near the tension face of a beam shall not be greater than the value given in Table 15 depending on the amount of redistribution carried out in analysis and the characteristic strength of the reinforcement.
+
+b) Slabs
+
+1) The horizontal distance between parallel main reinforcement bars shall not be more than three times the effective depth of solid slab or 300 mm whichever is smaller.
+
+2) The horizontal distance between parallel reinforcement bars provided against shrinkage and temperature shall not be more than five times the effective depth of a solid slab or 300 mm whichever is smaller.
