@@ -8,6 +8,8 @@
 The aim of design is the achievement of an acceptable probability that structures being designed will perform satisfactorily during their intended life.  
 With an appropriate degree of safety, they should sustain all the loads and deformations of normal construction and use and have adequate durability and adequate resistance to the effects of misuse and fire.
 
+---
+
 ### **18.2 Methods of Design**
 
 **18.2.1** Structure and structural elements shall normally be designed by **Limit State Method**. Account should be taken of accepted theories, experiment and experience and the need to design for durability.  Calculations alone do not produce safe, serviceable and durable structures. Suitable materials, quality control, adequate detailing and good supervision are equally important.  
@@ -365,3 +367,158 @@ NOTE—When deflections are required to be calculated, the method given in Annex
 
 ---
 
+## 24 SOLID SLABS
+
+### 24.1 General
+The provisions of 23.2 for beams apply to slabs also.
+
+NOTES
+**1** For slabs spanning in two directions, the shorter of the two spans should be used for calculating the span to effective depth ratios.
+**2** For two-way slabs of shorter spans (up to 3.5 m) with mild steel reinforcement, the span to overall depth ratios given below may generally be assumed to satisfy vertical deflection limits for loading class up to 3 kN/m².
+Simply supported slabs – 35
+Continuous slabs – 40
+For high strength deformed bars of grade Fe 415, the values given above should be multiplied by 0.8.
+
+---
+
+### **24.2 Slabs Continuous Over Supports**
+Slabs spanning in one direction and continuous over supports shall be designed according to the provisions applicable to continuous beams.
+
+---
+
+### **24.3 Slabs Monolithic with Supports**
+Bending moments in slabs (except flat slabs) constructed monolithically with the supports shall be calculated by taking such slabs either as continuous over supports and. capable of free rotation, or as members of a continuous framework with the supports, taking into account the stiffness of such supports. If such supports are formed into beams which justify fixity at the support of the slab, then the effects on the supporting beam, such as, the bending of the web in the transverse direction of the beam and the torsion in the longitudinal direction of the beam, wherever applicable, shall also be considered in the design of the beam.
+
+**24.3.1** For the purpose of calculation of moments in slabs in a monolithic structure, it will generally be sufficiently accurate to assume that members connected to the ends of such slabs are fixed in position and direction at the ends remote from their connections with the slabs.
+
+**24.3.2** Slabs Carrying Concentrated Load
+
+**24.3.2.1** If a solid slab supported on two opposite edges, carries concentrated loads the maximum bending moment caused by the concentrated loads will be assumed to be resisted by an effective width of slab (measured parallel to the supporting edges) as follows:
+
+a) For a single concentrated load, the effective width shall be calculated in accordance with the following equation provided that the load does not exceed the actual width of the slab:
+b<sub>ef</sub> = kx(1−l<sub>ef</sub>/x)+a
+where
+b<sub>ef</sub> = effective width of slab,
+k = constant having the values given in Table 14 depending upon the ratio of the width of the slab (b′) to the effective span l′<sub>ef</sub>,
+x = distance of the centroid of the concentrated load from nearer support,
+l<sub>ef</sub> = effective span, and
+a = width of the contact area of the concentrated load from nearer support measured parallel to the supported edge.
+
+And provided further that in case of a load near the unsupported edge of a slab, the effective width shall not exceed the above value nor half the above value plus the distance of the load from the unsupported edge.
+
+**b)** For two or more concentrated loads placed in a line in the direction of the span, the bending moment per metre width of slab shall be calculated separately for each load according to its appropriate effective width of slab calculated as in (a) above, and added together for design calculations.
+
+**c)** For two or more loads not in a line in the direction of the span, if the effective width of slab for one load does not overlap the effective width of slab for another load, both calculated as in (a) above, then the slab for each load can be designed separately. If the effective width of slab for one load overlaps the effective width of slab for an adjacent load, the overlapping portion of the slab shall be designed for the combined effect of the two loads.
+
+**Table 14 Values of k for Simply Supported and Continuous Slabs**
+**(Clause 24.3.2.1)**
+
+| b′/l<sub>ef      | k for Simply Supported Slabs | k for Continuous Slabs |
+| :--------------- | :--------------------------- | :--------------------- |
+| 0.1              | 0.4                          | 0.4                    |
+| 0.2              | 0.8                          | 0.8                    |
+| 0.3              | 1.16                         | 1.16                   |
+| 0.4              | 1.48                         | 1.44                   |
+| 0.5              | 1.72                         | 1.68                   |
+| 0.6              | 1.96                         | 1.84                   |
+| 0.7              | 2.12                         | 1.96                   |
+| 0.8              | 2.24                         | 2.06                   |
+| 0.9              | 2.36                         | 2.16                   |
+| 1.0 and above    | 2.48                         | 2.24                   |
+
+**d)** For cantilever solid slabs, the effective width shall be calculated in accordance with the following equation:
+b<sub>ef</sub> = 1.2a<sub>1</sub> + a
+where
+b<sub>ef</sub> = effective width,
+a<sub>1</sub> = distance of the concentrated load from the face of the cantilever support, and
+a = width of contact area of the concentrated load measured parallel to the supporting edge.
+
+Provided that the effective width of the cantilever slab shall not exceed one-third the length of the cantilever slab measured parallel to the fixed edge. And provided further that when the concentrated load is placed near the extreme ends of the length of cantilever slab in the direction parallel to the fixed edge, the effective width shall not exceed the above value, nor shall it exceed half the above value plus the distance of the concentrated load from the extreme end measured in the direction parallel to the fixed edge.
+
+**24.3.2.2** For slabs other than solid slabs, the effective width shall depend on the ratio of the transverse and longitudinal flexural rigidities of the slab. Where this ratio is one, that is, where the transverse and longitudinal flexural rigidities are approximately equal, the value of effective width as found for solid slabs may be used. But as the ratio decreases, proportionately smaller value shall be taken.
+
+**24.3.2.3** Any other recognized method of analysis for cases of slabs covered by 24.3.2.1 and 24.3.2.2 and for all other cases of slabs may be used with the approval of the engineer-in-charge.
+
+**24.3.2.4** The critical section for checking shear shall be as given in 34.2.4.1.
+
+---
+
+### **24.4 Slabs Spanning in Two Directions at Right Angles**
+
+The slabs spanning in two directions at right angles and carrying uniformly distributed load may be designed by any acceptable theory or by using coefficients given in Annex D. For determining bending moments in slabs spanning in two directions at right angles and carrying concentrated load, any accepted method approved by the engineer-in-charge may be adopted.
+
+**NOTE**—The most commonly used elastic methods are based on Pigeaud's or Wester-guard's theory and the most commonly used limit state of collapse method is based on Johansen's yield- line theory.
+
+**24.4.1 Restrained Slab with Unequal Conditions at Adjacent Panels**
+In some cases the support moments calculated from Table 26 for adjacent panels may differ significantly. The following procedure may be adopted to adjust them:
+
+**a)** Calculate the sum of moments at midspan and supports (neglecting signs) average of the support moment(- ve sign) for each panel.
+
+**b)** Treat the values from Table 26 as fixed end moments.
+
+**c)** According to the relative stiffness of adjacent spans, distribute the fixed end moments across the supports, giving new support moments.
+
+**d)** Adjust midspan moment such that, when added to the support moments from (c) (neglecting signs), the total should be equal to that from (a).
+
+If the resulting support moments are significantly greater than the value from Table 26, the tension steel over the supports will need to be extended further. The procedure should be as follows:
+
+**1)** Take the span moment as parabolic between supports: its maximum value is as found from (d).
+
+**2)** Determine the points of contraflexure of the new support moments [from (c)] with the span moment [from (1)].
+
+**3)** Extend half the support tension steel at each end to at least an effective depth or 12 bar diameters beyond the nearest point of contraflexure.
+
+**4)** Extend the full area of the support tension steel at each end to half the distance from (3).
+
+---
+
+**24.5 Loads on Supporting Beams**
+The loads on beams supporting solid slabs spanning in two directions at right angles and supporting uniformly distributed loads, may be assumed to be in accordance with Fig. 7.
+
+<img width="933" height="659" alt="image" src="https://github.com/user-attachments/assets/8e7556dc-d1e4-477d-b29d-18e2799f6d2b" />
+
+---
+
+## **25 COMPRESSION MEMBERS**
+
+### **25.1 Definitions**
+
+**25.1.1** Column or strut is a compression member, the effective length of which exceeds three times the least lateral dimension.
+
+**25.1.2** Short and Slender Compression Members
+A compression member may be considered as short when both the slenderness ratios \frac{l<sub>ex</sub>}{D} and \frac{l<sub>ey</sub>}{b} are less than 12:
+where
+l<sub>ex</sub> = effective length in respect of the major axis,
+D = depth in respect of the major axis,
+l<sub>ey</sub> = effective length in respect of the minor axis, and
+b = width of the member.
+It shall otherwise be considered as a slender compression member.
+**25.1.3** Unsupported Length
+The unsupported length l, of a compression member shall be taken as the clear distance between end restraints except that:
+a) in flat slab construction, it shall be clear distance between the floor and the lower extremity of the capital, the drop panel or slab whichever is the least.
+b) in beam and slab construction, it shall be the clear distance between the floor and the underside of the shallower beam framing into the columns in each direction at the next higher floor level.
+c) in columns restrained laterally by struts, it shall be the clear distance between consecutive struts in each vertical plane, provided that to be an adequate support, two such struts shall meet the columns at approximately the same level and the angle between vertical planes through the struts shall not vary more than 30° from a right angle. Such struts shall be of adequate dimensions and shall have sufficient anchorage to restrain the member against lateral deflection.
+d) in columns restrained laterally by struts or beams, with brackets used at the junction, it shall be the clear distance between the floor and the lower edge of the bracket, provided that the bracket width equals that of the beam strut and is at least half that of the column.
+
+---
+
+### **25.2 Effective Length of Compression Members**
+In the absence of more exact analysis, the effective length l<sub>ef</sub> of columns may be obtained as described in Annex E.
+
+---
+
+### **25.3 Slenderness Limits for Columns**
+
+**25.3.1** The unsupported length between end restraints shall not exceed 60 times the least lateral dimension of a column.
+
+**25.3.2** If, in any given plane, one end of a column is unrestrained, its unsupported length, l, shall not exceed 100b²/D
+where
+b = width of that cross-section, and
+D = depth of the cross-section measured in the plane under consideration.
+
+---
+
+### **25.4 Minimum Eccentricity**
+All columns shall be designed for minimum eccentricity, equal to the unsupported length of column/500 plus lateral dimensions/30, subject to a minimum of 20 mm. Where bi-axial bending is considered, it is sufficient to ensure that eccentricity exceeds the minimum about one axis at a time.
+
+---
