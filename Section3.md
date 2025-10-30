@@ -1,7 +1,5 @@
 # **SECTION 3 — GENERAL DESIGN CONSIDERATIONS**
 
----
-
 ## **18 BASES FOR DESIGN**
 
 ### **18.1 Aim of Design**
