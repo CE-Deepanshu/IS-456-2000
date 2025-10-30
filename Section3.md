@@ -347,15 +347,18 @@ b) Deflection  including temperature, creep and shrinkage occurring after erecti
 
 a) Basic values of span to effective depth ratios for spans up to 10 m:
 
-| Cantilever| 7 | 
-| Simply supported | 20 |  
-| Continuous | 26 |
+| Type of Beam       | Span to Depth Ratio |
+|--------------------|---------------------|
+| Cantilever         | 7                   |
+| Simply supported   | 20                  |
+| Continuous         | 26                  |
 
 b) For spans above 10 m, the values in (a) may be multiplied by 10/span in metres, except for cantilever in which case deflection calculations should be made.
 
 c) Depending on the area and the stress of steel for tension reinforcement, the values in (a) or (b) shall be modified by multiplying with the modification factor obtained as per Fig. 4.
 
 d) Depending on the area of compression reinforcement, the value of span to depth ratio be further modified by multiplying with the modification factor obtained as per Fig. 5.
+
 e) For flanged beams, the values of (a) or (b) be modified as per Fig. 6 and the reinforcement percentage for use in Fig. 4 and 5 should be based on area of section equal to b₁ d.
 NOTE—When deflections are required to be calculated, the method given in Annex C may be used.
 
