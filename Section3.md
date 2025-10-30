@@ -8,8 +8,6 @@
 The aim of design is the achievement of an acceptable probability that structures being designed will perform satisfactorily during their intended life.  
 With an appropriate degree of safety, they should sustain all the loads and deformations of normal construction and use and have adequate durability and adequate resistance to the effects of misuse and fire.
 
----
-
 ### **18.2 Methods of Design**
 
 **18.2.1** Structure and structural elements shall normally be designed by **Limit State Method**. Account should be taken of accepted theories, experiment and experience and the need to design for durability.  
@@ -150,3 +148,219 @@ Under transient wind load the lateral sway at the top should not exceed **H / 50
 For seismic loading, reference should be made to IS 1893.  
 
 ---
+
+## **21 FIRE RESISTANCE**
+
+**21.1** A structure or structural element required to have fire resistance should be designed to possess an appropriate degree of resistance to flame penetration, heat transmission and failure. The fire resistance of a structural element is expressed in terms of time in hours in accordance with **IS 1641**. Fire resistance of concrete elements depends upon member size, cover to steel reinforcement, detailing and type of aggregate (normal-weight or light-weight) used in concrete. Essential requirements of fire safety of building with respect to details of constitution are given in **IS 1642**.
+
+---
+
+**21.2** Minimum requirements of concrete cover and member dimensions for normal-weight aggregate concrete members so as to have the required fire resistance shall be in accordance with **26.4.3** and **Fig. 1** respectively.  
+
+---
+
+**21.3** The reinforcement detailing should reflect the changing pattern of the structural section and ensure that both individual elements and the structure as a whole contain adequate support, ties, bonds and anchorages for the required fire resistance.  
+
+**21.3.1** Additional measures such as application of fire-resistant finishes, provision of fire-resistant false ceilings and sacrificial steel in tensile zone should be adopted in case the nominal cover required exceeds 40 mm for beams and 35 mm for slabs, to give protection against spalling.  
+
+---
+
+**21.4** Specialist literature may be referred to for determining fire resistance of structures which have not been covered in **Fig. 1** or **Table 16A**.  
+
+---
+
+<img width="957" height="219" alt="image" src="https://github.com/user-attachments/assets/43213e40-83f8-498e-b389-05411cb3788f" />
+
+
+**Notes —**  
+1. These minimum dimensions relate specifically to the covers given in **Table 16A**.  
+2. *p* is the percentage of steel reinforcement.  
+
+---
+
+## **22 ANALYSIS**
+
+### **22.1 General**
+All structures may be analyzed by the **linear-elastic theory** to calculate internal actions produced by design loads.  
+In lieu of rigorous elastic analysis, simplified analysis as given in **22.4** for frames and **22.5** for continuous beams may be adopted.  
+
+---
+
+### **22.2 Effective Span**
+Unless otherwise specified, the effective span of a member shall be as follows:  
+
+**a)** Simply Supported Beam or Slab — The effective span of a member that is not built integrally with its supports shall be taken as clear span plus the effective depth of slab or beam or centre-to-centre of supports, whichever is less.  
+
+**b)** Continuous Beam or Slab — If the width of support is less than 1/12 of the clear span, the effective span shall be as in (a).  
+If the supports are wider than 1/12 of the clear span or 600 mm (whichever is less), the effective span shall be taken as under:  
+
+1. For end span with one end fixed and the other continuous or for intermediate spans — effective span = clear span between supports.  
+2. For end span with one end free and the other continuous — effective span = clear span + ½ effective depth of beam or slab, or clear span + ½ width of discontinuous support, whichever is less.  
+3. For spans with roller or rocker bearings — effective span = distance between centres of bearings.  
+
+**c)** *Cantilever* — Effective length = length to face of support + ½ effective depth, except where it forms end of a continuous beam, in which case length to centre of support shall be taken.  
+
+**d)** *Frames* — In the analysis of a continuous frame, centre-to-centre distance shall be used.  
+
+---
+
+### 22.3 Stiffness
+
+**22.3.1** Relative Stiffness
+The relative stiffness of members may be based on moment of inertia determined from:  
+
+a) **Gross section** — cross-section ignoring reinforcement.  
+b) **Transformed section** — concrete cross section plus the area of reinforcement transformed on the basis of modular ratio (see **B-1.3**).  
+c) **Cracked section** — The area of concrete in compression plus the area of reinforcement transformed on the basis of modular ratio  
+
+The assumptions made shall be consistent for all members throughout any analysis.  
+
+**22.3.2** For deflection calculations, appropriate values of moment of inertia as specified in **Annex C** should be used. 
+
+---
+
+### **22.4 Structural Frames** 
+Simplifying assumptions as given in 22.4.1 to 22.4.3 may be used in analysis of frames.  
+
+**22.4.1** Arrangement of Imposed Load
+a) Consideration may be limited to:  
+1. Design dead load on all spans with full design imposed load on **two adjacent spans**, and  
+2. Design dead load on all spans with full design imposed load on **alternate spans**.  
+
+b) When design imposed load ≤ ¾ design dead load, assume design dead + imposed load on all spans.  
+
+> **NOTE —** For beams and slabs continuous over supports, 22.4.1 (a) may be assumed.  
+
+**22.4.2 Substitute Frame** For determining moments and shears at any floor or roof level due to gravity loads, the beams at that level together with columns above and below, with their far ends fixed, may be considered to constitute the frame.  
+
+**22.4.2.1** Where side-sway consideration becomes critical due to unsymmetry in geometry or loading, rigorous analysis may be required.  
+
+**22.4.3** For lateral loads, simplified methods may be used for symmetrical structures may be used to obtain moments and shear for structures that are symmetrical. For unsymmetrical or very tall structures, more rigorous methods should be used.  
+
+---
+
+### **22.5 Moment and Shear Coefficients for Continuous Beams**
+
+**22.5.1**
+Unless more exact estimates are made, for beams of uniform cross-section which support substantially uniformly distributed loads over **three or more spans** (not differing by more than 15 % of the longest), bending moments and shear forces may be obtained using coefficients in **Table 12** and **Table 13**.  
+
+For moments at supports where two unequal spans meet, or spans are unequally loaded, take average of the two values for negative moment.  Where coefficients in **Table 12** are used, redistribution referred to in **22.7** shall not be permitted.  
+
+**22.5.2** Beams and Slabs Over Free End Supports
+Where a member is built into a masonry wall developing only partial restraint, design for a negative moment at face of support of **Wl / 24**, where *W* = total design load and *l* = effective span, or such restraining moment as may be shown to be applicable.  For such condition, shear coefficient in **Table 13** at end support may be increased by 0.05.  
+
+---
+
+<img width="953" height="251" alt="image" src="https://github.com/user-attachments/assets/aef4d1b9-cfd7-46f3-95a9-1a76dd8a1abd" />
+
+---
+
+<img width="953" height="257" alt="image" src="https://github.com/user-attachments/assets/e8d48c60-8770-4458-b538-cf0e877501cc" />
+
+---
+
+### **22.6 Critical Sections for Moment and Shear**
+
+**22.6.1** For monolithic construction, use moments computed at the face of supports for design at those sections. For non-monolithic construction, design in accordance with **22.2**.  
+
+**22.6.2 Critical Section for Shear**
+Use shears computed at the face of support for design at that section, except as in 22.6.2.1.  
+
+**22.6.2.1** When the reaction in the direction of applied shear introduces compression into the end region of the member, sections located at a distance &lt; *d* from the face of support may be designed for same shear as computed at distance *d*.  
+
+> **NOTE —** The above clauses are applicable for beams generally carrying uniformly distributed load or where principal load is located farther than 2*d* from the support face.  
+
+---
+
+### **22.7 Redistribution of Moments**
+Redistribution of moments may be done in accordance with **37.1.1** for limit-state method and **B-1.2** for working-stress method. However, when simplified analysis using coefficients is adopted, redistribution shall not be done.  
+
+---
+
+## **23 BEAMS**
+
+### **23.0 Effective Depth**
+Effective depth of a beam is the distance between centroid of tension reinforcement and maximum compression fibre, excluding thickness of finishing material not placed monolithically and any concrete provided to allow for wear. This will not apply to deep beams.  
+
+---
+
+### **23.1 T-Beams and L-Beams**
+
+**23.1.1 General**
+A slab acting as compression flange of a T-beam or L-beam shall satisfy:  
+
+a) Slab shall be cast integrally with web, or the web and the slab shall be effectively bonded by other manners; and.  
+b) If main reinforcement of slab is parallel to beam, transverse reinforcement shall be provided as in **Fig. 3**; such reinforcement shall not be less than 60 % of the main reinforcement at mid-span of the slab.  
+
+**23.1.2** Effective Width of Flange
+In absence of more accurate determination, effective width of flange may be taken as below, but not greater than the breadth of web plus half the sum of clear distances to adjacent beams on either side.  
+
+**a)** For T-beams  
+$$
+b_f = \frac{l_0}{6} + b_w + 6D_f
+$$  
+
+**b)** For L-beams  
+$$
+b_f = \frac{l_0}{12} + b_w + 3D_f
+$$  
+
+**c)** For isolated beams**,**  
+effective flange width shall be obtained as below, but not greater than actual width.  
+
+For T-beam:  
+$$
+b_x = \frac{l_0}{\left(\frac{l_0}{b}\right)+4} + b_w
+$$  
+
+For L-beam:  
+$$
+b_x = 0.5\,\frac{l_0}{\left(\frac{l_0}{b}\right)+4} + b_w
+$$  
+
+where:  
+
+- *b<sub>f</sub>* = effective width of flange  
+- *l<sub>0</sub>* = distance between points of zero moments in beam  
+- *b* = breadth of web  
+- *D<sub>f</sub>* = thickness of flange  
+- *B* = actual width of flange  
+
+> **NOTE —** For continuous beams and frames, *l* may be assumed as 0.7 times effective span.  
+
+---
+
+### **23.2 Control of Deflection**
+
+Deflection of a structure or part thereof shall not adversely affect appearance or efficiency of the structure, finishes or partitions.  
+Deflection shall generally be limited to:  
+
+a) Final deflection (all loads, including temperature, creep and shrinkage) measured from as-cast level of supports of floors, roofs and other horizontals ≤ span / 250.  
+
+b) Deflection (including temperature, creep, shrinkage) occurring after erection of partitions and application of finishes ≤ span / 350 or 20 mm, whichever is less.  
+
+---
+
+**23.2.1**
+Vertical deflection limits may be assumed satisfied if span-to-depth ratios do not exceed:  
+
+**a)** Basic values (for spans ≤ 10 m):  
+
+| **Type** | **Span / Depth Ratio** |
+|:--|:--:|
+| Cantilever | 7 |
+| Simply Supported | 20 |
+| Continuous | 26 |
+
+**b)** For spans &gt; 10 m, multiply values in (a) by (10 / span in m), except for cantilevers (where deflection calculations should be made).  
+
+**c)** Depending on area and stress of steel for tension reinforcement, modify (a) or (b) by multiplying with **modification factor** obtained from **Fig. 4**.  
+
+**d)** Depending on area of compression reinforcement, further modify by factor from **Fig. 5**.  
+
+**e)** For flanged beams, modify (a) or (b) as per **Fig. 6**; reinforcement percentage for use in Fig. 4 and 5 should be based on area of section = *b<sub>1</sub>d*.  
+
+> **NOTE —** When deflections are required to be calculated, use the method given in **Annex C**.  
+
+---
+
