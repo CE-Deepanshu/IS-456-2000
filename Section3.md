@@ -10,8 +10,7 @@ With an appropriate degree of safety, they should sustain all the loads and defo
 
 ### **18.2 Methods of Design**
 
-**18.2.1** Structure and structural elements shall normally be designed by **Limit State Method**. Account should be taken of accepted theories, experiment and experience and the need to design for durability.  
-Calculations alone do not produce safe, serviceable and durable structures. Suitable materials, quality control, adequate detailing and good supervision are equally important.  
+**18.2.1** Structure and structural elements shall normally be designed by **Limit State Method**. Account should be taken of accepted theories, experiment and experience and the need to design for durability.  Calculations alone do not produce safe, serviceable and durable structures. Suitable materials, quality control, adequate detailing and good supervision are equally important.  
 
 **18.2.2** Where the Limit State Method cannot be conveniently adopted, Working Stress Method (see Annex B) may be used.  
 
@@ -20,9 +19,7 @@ Designs based on experimental investigations on models or full-size structure or
 
 **18.2.3.1** Where the design is based on experimental investigation on full-size structure or element, load tests shall be carried out to ensure the following:
 
-**a)** The structure shall satisfy the requirements for deflection (see 23.2) and cracking (see 35.3.2) when subjected to a load for 24 h equal to the characteristic load multiplied by 1.33 γ, where γ shall be taken from Table 18, for the limit state of serviceability.  
-If within 24 h of the removal of the load, the structure does not show a recovery of at least 75 percent of the maximum deflection shown during the 24 h under the load, the test loading should be repeated after a lapse of 72 h.  
-The recovery after the second test should be at least 75 percent of the maximum deflection shown during the second test.  
+**a)** The structure shall satisfy the requirements for deflection (see 23.2) and cracking (see 35.3.2) when subjected to a load for 24 h equal to the characteristic load multiplied by 1.33 γ, where γ shall be taken from Table 18, for the limit state of serviceability. If within 24 h of the removal of the load, the structure does not show a recovery of at least 75 percent of the maximum deflection shown during the 24 h under the load, the test loading should be repeated after a lapse of 72 h. The recovery after the second test should be at least 75 percent of the maximum deflection shown during the second test.  
 
 > **NOTE —** If the maximum deflection in mm shown during 24 h under load is less than  
 > 
@@ -164,10 +161,11 @@ Under transient wind load the lateral sway at the top should not exceed **H / 50
 
 **21.4** Specialist literature may be referred to for determining fire resistance of structures which have not been covered in **Fig. 1** or **Table 16A**.  
 
+<img width="619" height="556" alt="image" src="https://github.com/user-attachments/assets/843fa998-7148-4867-9117-5208f6720793" />
+
 ---
 
 <img width="957" height="219" alt="image" src="https://github.com/user-attachments/assets/43213e40-83f8-498e-b389-05411cb3788f" />
-
 
 **Notes —**  
 1. These minimum dimensions relate specifically to the covers given in **Table 16A**.  
@@ -195,7 +193,7 @@ If the supports are wider than 1/12 of the clear span or 600 mm (whichever is le
 2. For end span with one end free and the other continuous — effective span = clear span + ½ effective depth of beam or slab, or clear span + ½ width of discontinuous support, whichever is less.  
 3. For spans with roller or rocker bearings — effective span = distance between centres of bearings.  
 
-**c)** *Cantilever* — Effective length = length to face of support + ½ effective depth, except where it forms end of a continuous beam, in which case length to centre of support shall be taken.  
+**c)** *Cantilever* — Effective length = length to face of support + <sup>1/ <sub>2 effective depth, except where it forms end of a continuous beam, in which case length to centre of support shall be taken.  
 
 **d)** *Frames* — In the analysis of a continuous frame, centre-to-centre distance shall be used.  
 
@@ -332,6 +330,7 @@ where:
 
 > **NOTE —** For continuous beams and frames, *l* may be assumed as 0.7 times effective span.  
 
+
 ---
 
 ### **23.2 Control of Deflection**
@@ -355,6 +354,10 @@ b) For spans above 10 m, the values in (a) may be multiplied by 10/span in metre
 c) Depending on the area and the stress of steel for tension reinforcement, the values in (a) or (b) shall be modified by multiplying with the modification factor obtained as per Fig. 4.
 
 d) Depending on the area of compression reinforcement, the value of span to depth ratio be further modified by multiplying with the modification factor obtained as per Fig. 5.
+e) For flanged beams, the values of (a) or (b) be modified as per Fig. 6 and the reinforcement percentage for use in Fig. 4 and 5 should be based on area of section equal to b₁ d.
+NOTE—When deflections are required to be calculated, the method given in Annex C may be used.
+
+<img width="975" height="694" alt="image" src="https://github.com/user-attachments/assets/49a93d37-5fb9-4883-af55-5d557ce6e6d5" />
 
 ---
 
