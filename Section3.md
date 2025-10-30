@@ -537,15 +537,22 @@ Reinforcing steel of same type and grade shall be used as main reinforcement in 
 
 ---
 
-**26.2 Development of Stress in Reinforcement**
+**26.2** Development of Stress in Reinforcement
 The calculated tension or compression in any bar at any section shall be developed on each side of the section by an appropriate development length or end anchorage or by a combination therefore.
 
-**26.2.1 Development Length of Bars**
+**26.2.1** Development Length of Bars
+
 The development length L<sub>d</sub> is given by
-L<sub>d</sub> = φ σ<sub>s</sub> / 4 τ<sub>bd</sub>
+$$
+L<sub>d</sub> = \frac{φσ<sub>s</sub>}{4τ<sub>bd</sub>}
+$$
+
 where
+
 φ = nominal diameter of the bar,
+
 σ<sub>s</sub> = stress in bar at the section considered at design load, and
+
 τ<sub>bd</sub> = design bond stress given in 26.2.1.1.
 
 **NOTES**
@@ -553,7 +560,7 @@ where
 2 For bars of sections other than circular, the development length should be sufficient to develop the stress in the bar by bond.
 3 For plain cement concrete of M15 grade with nominal reinforcement, the design bond stress may be taken as 1.0 N/mm²
 
-**26.2.1.1 Design bond stress in limit state method for plain bars in tension shall be as below:**
+**26.2.1.1** Design bond stress in limit state method for plain bars in tension shall be as below:
 
 | Grade of Concrete | Design bond stress, τ<sub>bd</sub> N/mm² |
 | :---------------- | :--------------------------------------- |
@@ -727,3 +734,5 @@ b) Slabs
 1) The horizontal distance between parallel main reinforcement bars shall not be more than three times the effective depth of solid slab or 300 mm whichever is smaller.
 
 2) The horizontal distance between parallel reinforcement bars provided against shrinkage and temperature shall not be more than five times the effective depth of a solid slab or 300 mm whichever is smaller.
+
+---
