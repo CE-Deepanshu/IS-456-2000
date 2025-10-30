@@ -10,4 +10,4 @@ Note: This website content contains all changes made due to Amendment no. 1, 2, 
 ## [CONTENT](Content.md)
 ### [SECTION 1 GENERAL](Section1.md)
 ### [SECTION 2 MATERIALS, WORKMANSHIP, INSPECTION AND TESTING](Section2.md)
-
+### [SECTION 4 SPECIAL DESIGN REQUIREMENTS FOR STRUCTURAL MEMBERS AND SYSTEMS]
