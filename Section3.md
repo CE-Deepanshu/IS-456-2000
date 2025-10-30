@@ -29,7 +29,7 @@ The recovery after the second test should be at least 75 percent of the maximum 
 > **NOTE —** If the maximum deflection in mm shown during 24 h under load is less than  
 > 
 > $$
-> 40\,\frac{l^2}{D}
+> 40\frac{l^2}{D}
 > $$
 > 
 > where *l* is the effective span in m and *D* is the overall depth of the section in mm, it is not necessary for the recovery to be measured.  
