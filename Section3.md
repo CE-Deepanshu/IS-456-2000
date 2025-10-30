@@ -535,4 +535,167 @@ Reinforcing steel of same type and grade shall be used as main reinforcement in 
 
 **26.1.1** Bars may be arranged singly, or in pairs in contact, or in groups of three or four bars bundled in contact. Bundled bars shall be enclosed within stirrups or ties. Bundled bars shall be tied together to ensure the bars remaining together. Bars larger than 32 mm diameter shall not be bundled, except in columns. Congestion of reinforcement should be avoided during detailing. Various methods such as choosing the diameter and grade of steel carefully and bundling of reinforcement, if required, are available.
 
-**26.1.2** The recommendations for detailing for earthquake-resistant construction given in IS 13920 should be taken into consideration, where applicable (see also IS 4326).
+**26.1.2** The recommendations for detailing for earthquake-resistant construction given in IS 13920 should be taken into consideration, where applicable (see also IS 4326). 
+
+---
+
+**26.2 Development of Stress in Reinforcement**
+The calculated tension or compression in any bar at any section shall be developed on each side of the section by an appropriate development length or end anchorage or by a combination therefore.
+
+**26.2.1 Development Length of Bars**
+The development length L<sub>d</sub> is given by
+L<sub>d</sub> = φ σ<sub>s</sub> / 4 τ<sub>bd</sub>
+where
+φ = nominal diameter of the bar,
+σ<sub>s</sub> = stress in bar at the section considered at design load, and
+τ<sub>bd</sub> = design bond stress given in 26.2.1.1.
+
+**NOTES**
+1 The development length includes anchorage values of hooks in tension reinforcement.
+2 For bars of sections other than circular, the development length should be sufficient to develop the stress in the bar by bond.
+3 For plain cement concrete of M15 grade with nominal reinforcement, the design bond stress may be taken as 1.0 N/mm²
+
+**26.2.1.1 Design bond stress in limit state method for plain bars in tension shall be as below:**
+
+| Grade of Concrete | Design bond stress, τ<sub>bd</sub> N/mm² |
+| :---------------- | :--------------------------------------- |
+| M20               | 1.2                                      |
+| M25               | 1.4                                      |
+| M30               | 1.5                                      |
+| M35               | 1.7                                      |
+| M40 and above     | 1.9                                      |
+
+For deformed bars conforming to IS 1786 these values shall be increased by 60 percent.
+For bars in compression, the values of bond stress for bars in tension shall be increased by 25 percent. For fusion bonded epoxy coated deformed bars, design bond stress values shall be taken as 80 percent of the values conforming to IS 1786.
+The values of bond stress in working stress design, are given in B-2.1.
+
+**26.2.1.2** Bars bundled in contact
+The development length of each bar of bundled bars shall be that for the individual bar, increased by 10 percent for two bars in contact, 20 percent for three bars in contact and 33 percent for four bars in contact.
+
+**26.2.2** Anchoring Reinforcing Bars
+
+**26.2.2.1** Anchoring bars in tension
+a) Deformed bars may be used without end anchorages provided development length requirement is satisfied. Hooks should normally be provided for plain bars in tension.
+b) Bends and hooks — Bends and hooks shall conform to IS 2502
+ 1) Bends - The anchorage value of bend shall be taken as 4 times the diameter of the bar for each 45° bend subject to a maximum of 16 times the diameter of the bar.
+ 2) Hooks - The anchorage value of a standard U-type hook shall be equal to 16 times the diameter of the bar.
+
+**26.2.2.2** Anchoring bars in compression
+The anchorage length of straight bar in compression shall be equal to the development length of bars in compression as specified in **26.2.1.** The projected length of hooks, bends and straight lengths beyond bends if provided for a bar in compression, shall only be considered for development length.
+
+**26.2.2.3** Mechanical devices for anchorage
+Any mechanical or other device capable of developing the strength of the bar without damage to concrete may be used as anchorage with the approval of the engineer-in-charge.
+
+**26.2.2.4** Anchoring shear reinforcement
+
+a) Inclined bars - The development length shall be as for bars in tension; this length shall be measured as under:
+
+ 1) In tension zone, from the end of the sloping or inclined portion of the bar, and
+ 2) In the compression zone, from the mid depth of the beam.
+  
+b) Stirrups-Not withstanding any of the provisions of this standard, in case of secondary reinforcement, such as stirrups and transverse ties, complete development lengths and anchorage shall be deemed to have been provided when the bar is bent through an angle of at least 90° round a bar of at least its own diameter and is continued beyond the end of the curve for a length of at least eight diameters, or when the bar is bent through an angle of 135° and is continued beyond the end of the curve for a length of at least six bar diameters or when the bar is bent through an angle of 180° and is continued beyond the end of the curve for a length of at least four bar diameters.
+
+**26.2.2.5** Bearing stresses at bends
+
+The bearing stress in concrete for bends and hooks described in IS 2502 need not be checked. The bearing stress inside a bend in any other bend shall be calculated as given below:
+
+Bearing stress = $$\frac{F_bt}{rφ}$$
+
+where
+
+F<sub>bt</sub> = tensile force due to design loads in a bar or group of bars,
+
+r = internal radius of the bend, and
+
+φ = size of the bar or, in bundle, the size of bar of equivalent area.
+
+For limit state method of design, this stress shall not exceed 1.5f<sub>ck</sub> / (1+2φ/a) where f<sub>ck</sub> is the characteristic cube strength of concrete and a, for a particular bar or group of bars in contact shall be taken as the centre to centre distance between bars or groups of bars perpendicular to the plane of the bend; for a bar or group of bars adjacent to the face of the member a shall be taken as the cover plus size of bar (φ). For working stress method of design, the bearing stress shall not exceed 1.5f<sub>ck</sub> / (1+2φ/a)
+
+**26.2.2.6** If a change in direction of tension or compression reinforcement induces a resultant force acting outward tending to split the concrete, such force should be taken up by additional links or stirrups. Bent tension bar at a re-entrant angle should be avoided.
+
+**26.2.3** Curtailment of Tension Reinforcement in Flexural Members
+
+**26.2.3.1** For curtailment, reinforcement shall extend beyond the point at which it is no longer required to resist flexure for a distance equal to the effective depth of the member or 12 times the bar diameter, whichever is greater except at simple support or end of cantilever. In addition **26.2.3.2** to **26.2.3.5** shall also be satisfied.
+
+**NOTE**-A point at which reinforcement is no longer required to resist flexure is where the resistance moment of the section, considering only the continuing bars, is equal to the design moment.
+
+**26.2.3.2** Flexural reinforcement shall not be terminated in a tension zone unless any one of the following conditions is satisfied:
+
+a) The shear at the cut-off point does not exceed two-thirds that permitted, including the shear strength of web reinforcement provided.
+
+b) Stirrup area in excess of that required for shear and torsion is provided along each terminated bar over a distance from the cut-off point equal to three-fourths the effective depth of the member. The excess stirrup area shall be not less than 0.4 bs/f<sub>y</sub>, where b is the breadth of beam, s is the spacing and f<sub>y</sub> is the characteristic strength of reinforcement in N/mm². The resulting spacing shall not exceed d/8β<sub>b</sub>, where β<sub>b</sub> is the ratio of the area of bars cut-off to the total area of bars at the section, and d is the effective depth.
+
+c) For 36 mm and smaller bars, the continuing bars provide double the area required for flexure at the cut-off point and the shear does not exceed three-fourths that permitted.
+
+**26.2.3.3** Positive moment reinforcement
+
+a) At least one-third the positive moment reinforcement in simple members and one-fourth the positive moment reinforcement in continuous members shall extend along the same face of the member into the support, to a length equal to L<sub>d</sub>/3.
+
+b) When a flexural member is part of the primary lateral load resisting system, the positive reinforcement required to be extended into the support as described in (a) shall be anchored to develop its design stress in tension at the face of the support.
+
+c) At simple supports and at points of inflection, positive moment tension reinforcement shall be limited to a diameter such that L<sub>d</sub> computed for f<sub>d</sub> by 26.2.1 does not exceed M<sub>1</sub>/V + L<sub>0</sub>
+
+where
+
+M<sub>1</sub> = moment of resistance of the section assuming all reinforcement at the section to be stressed to f<sub>d</sub>
+
+f<sub>d</sub> = 0.87 f<sub>y</sub>, in the case of limit state design and the permissible stress σ<sub>s</sub> in the case of working stress design;
+
+V = shear force at the section due to design loads;
+
+L<sub>0</sub> = sum of the anchorage beyond the centre of the support and the equivalent anchorage value of any hook or mechanical anchorage at simple support; and at a point of inflection, L<sub>0</sub> is limited to the effective depth of the members or 12φ, whichever is greater, and
+
+φ = diameter of bar,
+
+The value of M<sub>1</sub>/V in the above expression may be increased by 30 percent when the ends of the reinforcement are confined by a compressive reaction.
+
+**26.2.3.4** Negative moment reinforcement
+
+At least one-third of the total reinforcement provided for negative moment at the support shall extend beyond the point of inflection for a distance not less than the effective depth of the member of 12φ or one-sixteenth of the clear span whichever is greater.
+
+**26.2.3.5** Curtailment of bundled bars
+
+Bars in a bundle shall terminate at different points spaced apart by not less than 40 times the bar diameter except for bundles stopping at a support.
+
+**26.2.4** Special Members
+
+Adequate end anchorage shall be provided for tension reinforcement in flexural members where reinforcement stress is not directly proportional to moment, such as sloped, stepped, or tapered footings; brackets; deep beams; and members in which the tension reinforcement is not parallel to the compression face.
+
+**26.2.5** Reinforcement Splicing
+
+Where splices are provided in the reinforcing bars, they shall as far as possible be away from the sections of maximum stress and be staggered. It is recommended that splices in flexural members should not be at sections where the bending moment is more than 50 percent of the moment of resistance; and not more than half the bars shall be spliced at a section. Where more than one-half of the bars are spliced at a section or where splices are made at points of maximum stress, special precautions shall be taken, such as increasing the length of lap and/or using spirals or closely-spaced stirrups around the length of the splice.
+
+**26.2.5.1** Lap splices
+
+a) Lap splices shall not be used for bars larger than 36 mm; bars larger than 36 mm shall be welded (see **12.4**) or mechanically spliced.
+
+b) Lap splices shall be considered as staggered if the centre to centre distance of the splices is not less than 1.3 times the lap length calculated as described in (c).
+
+c) Lap length including anchorage value of hooks for bars in flexural tension shall be L<sub>d</sub> (see 26.2.1) or 30φ whichever is greater and for direct tension shall be 2L<sub>d</sub> or 300 mm whichever is greater. The straight length of the lap shall not be less than 15φ or 200 mm. The following provisions shall also apply:
+Where lap occurs for a tension bar located at:
+ 1) top of a section as cast and the minimum cover is less than twice the diameter of the lapped bar, the lap length shall be increased by a factor of 1.4.
+ 2) corner of a section and the minimum cover to either face is less than twice the diameter of the lapped bar or where the clear distance between adjacent laps is less than 75 mm or 6 times the diameter of lapped bar, whichever is greater, the lap length should be increased by a factor of 1.4.
+Where both condition (1) and (2) apply, the lap length should be increased by a factor of 2.0.
+**NOTE**-Splices in tension members shall be enclosed in spirals made of bars not less than 6 mm diameter with pitch not more than 100 mm.
+
+ d) The lap length in compression shall be equal to the development length in compression, calculated as described in 26.2.1, but not less than 24φ.
+
+ e) When bars of two different diameters are to be spliced, the lap length shall be calculated on the basis of diameter of the smaller bar.
+
+ f) When splicing of welded wire fabric is to be carried out, lap splices of wires shall be made so that overlap measured between the extreme cross wires shall be not less than the spacing of cross wires plus 100 mm.
+
+ g) In case of bundled bars, lapped splices of bundled bars shall be made by splicing one bar at a time; such individual splices within a bundle shall be staggered. Reinforcement couplers for mechanical splices of bars for concrete reinforcement, used, shall be in accordance with IS 16172.
+
+**26.2.5.2** Strength of welds
+The following values may be used where the strength of the weld has been proved by tests to be at least as great as that of the parent bar.
+a) Splices in compression — For welded splices and mechanical connection, 100 percent of the design strength of joined bars.
+b) Splices in tension
+ 1) 80 percent of the design strength of welded bars (100 percent if welding is strictly supervised and if at any cross-section of the member not more than 20 percent of the tensile reinforcement is welded).
+ 2) 100 percent of design strength of mechanical connection.
+
+**26.2.5.3 End-bearing splices**
+End-bearing splices shall be used only for bars in compression. The ends of the bars shall be square cut and concentric bearing ensured by suitable devices.
+
+---
+
+
