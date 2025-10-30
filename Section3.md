@@ -735,4 +735,6 @@ b) Slabs
 
 2) The horizontal distance between parallel reinforcement bars provided against shrinkage and temperature shall not be more than five times the effective depth of a solid slab or 300 mm whichever is smaller.
 
+<img width="941" height="356" alt="image" src="https://github.com/user-attachments/assets/bfcc85ce-aa59-474f-a7fc-b617c1a7859e" />
+
 ---
