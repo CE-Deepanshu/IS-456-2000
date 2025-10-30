@@ -1,4 +1,4 @@
-# IS-456-2000
+# IS_456-2000.github.io
 # IS 456 : 2000 (REAFFIRMED 2021)
 ## Indian Standard  
 ## PLAIN AND REINFORCED CONCRETE  CODE OF PRACTICE  ( Fourth Revision)
