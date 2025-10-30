@@ -13,9 +13,9 @@ With an appropriate degree of safety, they should sustain all the loads and defo
 **18.2.1** Structure and structural elements shall normally be designed by **Limit State Method**. Account should be taken of accepted theories, experiment and experience and the need to design for durability.  
 Calculations alone do not produce safe, serviceable and durable structures. Suitable materials, quality control, adequate detailing and good supervision are equally important.  
 
-**18.2.2** Where the **Limit State Method** cannot be conveniently adopted, **Working Stress Method** (see Annex B) may be used.  
+**18.2.2** Where the Limit State Method cannot be conveniently adopted, **Working Stress Method (see Annex B) may be used.  
 
-**18.2.3 Design Based on Experimental Basis**  
+**18.2.3** Design Based on Experimental Basis 
 Designs based on experimental investigations on models or full-size structure or element may be accepted if they satisfy the primary requirements of 18.1 and subject to experimental details and the analysis connected therewith being approved by the engineer-in-charge.  
 
 **18.2.3.1** Where the design is based on experimental investigation on full-size structure or element, load tests shall be carried out to ensure the following:
@@ -332,35 +332,25 @@ where:
 
 ### **23.2 Control of Deflection**
 
-Deflection of a structure or part thereof shall not adversely affect appearance or efficiency of the structure, finishes or partitions.  
-Deflection shall generally be limited to:  
+Deflection of a structure or part thereof shall not adversely affect appearance or efficiency of the structure, finishes or partitions. The deflection shall generally be limited to:  
 
-a) Final deflection (all loads, including temperature, creep and shrinkage) measured from as-cast level of supports of floors, roofs and other horizontals ≤ span / 250.  
+a) Final deflection due to all loads, including temperature, creep and shrinkage and measured from as-cast level of supports of floors, roofs and other horizontals should not normally excedd span / 250.  
 
-b) Deflection (including temperature, creep, shrinkage) occurring after erection of partitions and application of finishes ≤ span / 350 or 20 mm, whichever is less.  
+b) Deflection  including temperature, creep and shrinkage occurring after erection of partition and application of finishes should not normally excedd ≤ span / 350 or 20 mm, whichever is less.  
 
----
+**23.2.1** Vertical deflection limits may genrally be assumed to be satisfied if span-to-depth ratios do not exceed the values obtained as follows:  
 
-**23.2.1**
-Vertical deflection limits may be assumed satisfied if span-to-depth ratios do not exceed:  
+a) Basic values of span to effective depth ratios for spans up to 10 m:
 
-**a)** Basic values (for spans ≤ 10 m):  
+- Cantilever: 7  
+- Simply supported: 20  
+- Continuous: 26
 
-| **Type** | **Span / Depth Ratio** |
-|:--|:--:|
-| Cantilever | 7 |
-| Simply Supported | 20 |
-| Continuous | 26 |
+b) For spans above 10 m, the values in (a) may be multiplied by 10/span in metres, except for cantilever in which case deflection calculations should be made.
 
-**b)** For spans &gt; 10 m, multiply values in (a) by (10 / span in m), except for cantilevers (where deflection calculations should be made).  
+c) Depending on the area and the stress of steel for tension reinforcement, the values in (a) or (b) shall be modified by multiplying with the modification factor obtained as per Fig. 4.
 
-**c)** Depending on area and stress of steel for tension reinforcement, modify (a) or (b) by multiplying with **modification factor** obtained from **Fig. 4**.  
-
-**d)** Depending on area of compression reinforcement, further modify by factor from **Fig. 5**.  
-
-**e)** For flanged beams, modify (a) or (b) as per **Fig. 6**; reinforcement percentage for use in Fig. 4 and 5 should be based on area of section = *b<sub>1</sub>d*.  
-
-> **NOTE —** When deflections are required to be calculated, use the method given in **Annex C**.  
+d) Depending on the area of compression reinforcement, the value of span to depth ratio be further modified by multiplying with the modification factor obtained as per Fig. 5.
 
 ---
 
