@@ -13,7 +13,7 @@ With an appropriate degree of safety, they should sustain all the loads and defo
 **18.2.1** Structure and structural elements shall normally be designed by **Limit State Method**. Account should be taken of accepted theories, experiment and experience and the need to design for durability.  
 Calculations alone do not produce safe, serviceable and durable structures. Suitable materials, quality control, adequate detailing and good supervision are equally important.  
 
-**18.2.2** Where the Limit State Method cannot be conveniently adopted, **Working Stress Method (see Annex B) may be used.  
+**18.2.2** Where the Limit State Method cannot be conveniently adopted, Working Stress Method (see Annex B) may be used.  
 
 **18.2.3** Design Based on Experimental Basis 
 Designs based on experimental investigations on models or full-size structure or element may be accepted if they satisfy the primary requirements of 18.1 and subject to experimental details and the analysis connected therewith being approved by the engineer-in-charge.  
@@ -85,19 +85,19 @@ If the effects of shrinkage, creep and temperature are liable to affect material
 ### **19.6 Other Forces and Effects**
 In addition, account shall be taken of the following forces and effects if they are liable to affect materially the safety and serviceability of the structure:  
 
-a) Foundation movement (see IS 1904)  
+a) Foundation movement (see **IS 1904**)  
 b) Elastic axial shortening  
-c) Soil and fluid pressures [see IS 875 (Part 5)]  
+c) Soil and fluid pressures [see **IS 875 (Part 5)**]  
 d) Vibration  
 e) Fatigue  
-f) Impact [see IS 875 (Part 5)]  
-g) Erection loads [see IS 875 (Part 2)]  
+f) Impact [see **IS 875 (Part 5)**]  
+g) Erection loads [see **IS 875 (Part 2)**]  
 h) Stress concentration effect due to point load and the like.  
 
 ---
 
 ### **19.7 Combination of Loads**
-The combination of loads shall be as given in IS 875 (Part 5).  
+The combination of loads shall be as given in **IS 875 (Part 5)**.  
 
 ---
 
@@ -119,8 +119,7 @@ The stability of a structure as a whole against overturning shall be ensured so 
 - **1.2 × (maximum overturning moment due to characteristic dead load)** and  
 - **1.4 × (maximum overturning moment due to characteristic imposed loads)**.  
 
-In cases where dead load provides the restoring moment, only **0.9 × characteristic dead load** shall be considered.  
-Restoring moment due to imposed loads shall be ignored.  
+In cases where dead load provides the restoring moment, only **0.9 × characteristic dead load** shall be considered. Restoring moment due to imposed loads shall be ignored.  
 
 **20.1.1** The anchorages or counterweights provided for overhanging members (during construction and service) should be such that static equilibrium should remain, even when overturning moment is doubled.  
 
@@ -133,8 +132,7 @@ In this case, only **0.9 × characteristic dead load** shall be taken into accou
 ---
 
 ### **20.3 Probable Variation in Dead Load**
-To ensure stability at all times, account shall be taken of probable variations in dead load during construction, repair or other temporary measures.  
-Wind and seismic loading shall be treated as imposed loading.  
+To ensure stability at all times, account shall be taken of probable variations in dead load during construction, repair or other temporary measures. Wind and seismic loading shall be treated as imposed loading.  
 
 ---
 
@@ -144,8 +142,7 @@ In designing the framework of a building, provisions shall be made by adequate m
 ---
 
 ### **20.5 Lateral Sway**
-Under transient wind load the lateral sway at the top should not exceed **H / 500**, where H is the total height of the building.  
-For seismic loading, reference should be made to IS 1893.  
+Under transient wind load the lateral sway at the top should not exceed **H / 500**, where H is the total height of the building. For seismic loading, reference should be made to **IS 1893**.  
 
 ---
 
@@ -264,7 +261,7 @@ Where a member is built into a masonry wall developing only partial restraint, d
 **22.6.1** For monolithic construction, use moments computed at the face of supports for design at those sections. For non-monolithic construction, design in accordance with **22.2**.  
 
 **22.6.2 Critical Section for Shear**
-Use shears computed at the face of support for design at that section, except as in 22.6.2.1.  
+The shears computed at the face of support shall be used in the design for member at that section, except as in 22.6.2.1.  
 
 **22.6.2.1** When the reaction in the direction of applied shear introduces compression into the end region of the member, sections located at a distance &lt; *d* from the face of support may be designed for same shear as computed at distance *d*.  
 
