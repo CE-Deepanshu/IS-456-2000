@@ -475,27 +475,27 @@ var images=['data:image/bmp;base64,iVBORw0KGgoAAAANSUhEUgAAAngAAAH4CAYAAADZz5B/A
     <p><b>23.1.2</b> Effective Width of Flange</p>
     <p>In the absence of more accurate determination, the effective width of flange may be taken as the following but in no case greater than the breadth of the web plus half the sum of the clear distances to the adjacent beams on either side.</p>
     
-    <p>a) For T-beams,b<sub>f</sub> = <frac>{l<sub>0</sub>}{6}</frac>  + b<sub>w</sub> + 6D<sub>f</sub>
+    <p>a) For T-beams,b<sub>f</sub> = l<sub>0</sub>/ 6  + b<sub>w</sub> + 6D<sub>f</sub>
 </p>
     
-    <p>b) For L-beams, 
+    <p>b) For L-beams,b<sub>f</sub> = l<sub>0</sub>/ 12  + b<sub>w</sub> + 3D<sub>f</sub> 
         
     </p>
     
     <p>c) For isolated beams, the effective flange width shall be obtained as below but in no case greater than the actual width:</p>
     
     <p>For T-beam:</p>
-    <p>\( b_s = \frac{1}{(l_a/b)} + b_w \)</p>
-    
+    <p>b<sub>f</sub> = l<sub>0</sub>/ ((l<sub>0</sub>/ b)  + 4) + b<sub>w</sub></p>
+        
     <p>For L-beam:</p>
-    <p>\( b_s = 0.5 \times \frac{1}{(l_a/b)} + b_w \)</p>
+    <p>b<sub>f</sub> = 0.5.l<sub>0</sub>/ ((l<sub>0</sub>/ b)  + 4) + b<sub>w</sub></p>
     
     <p>where</p>
-    <p>\( B_f \) = effective width of flange,</p>
-    <p>\( L_o \) = distance between points of zero moments in the beam,</p>
-    <p>\( b \) = breadth of the web,</p>
-    <p>\( D_f \) = thickness of flange, and</p>
-    <p>\( B \) = actual width of the flange.</p>
+    <p> B<sub>f</sub> = effective width of flange,</p>
+    <p> l<sub>o</sub> = distance between points of zero moments in the beam,</p>
+    <p> b<sub>w</sub> = breadth of the web,</p>
+    <p> D<sub>f</sub>= thickness of flange, and</p>
+    <p> B = actual width of the flange.</p>
     
     <p class="note">NOTE - For continuous beams and frames, T may be assumed as 0.7 times the effective span.</p>
     
@@ -506,8 +506,7 @@ var images=['data:image/bmp;base64,iVBORw0KGgoAAAANSUhEUgAAAngAAAH4CAYAAADZz5B/A
     
     <p>b) The deflection including the effects of temperature, creep and shrinkage occurring after erection of partitions and the application of finishes should not normally exceed span/350 or 20 mm whichever is less.</p>
     
-    <p class="bold">23.2.1</p>
-    <p>The vertical deflection limits may generally be assumed to be satisfied provided that the span to depth ratios are not greater than the values obtained as below:</p>
+    <p><b>23.2.1</b> The vertical deflection limits may generally be assumed to be satisfied provided that the span to depth ratios are not greater than the values obtained as below:</p>
     
     <p>a) Basic values of span to effective depth ratios for spans up to 10 m:</p>
     
@@ -543,7 +542,7 @@ var images=['data:image/bmp;base64,iVBORw0KGgoAAAANSUhEUgAAAngAAAH4CAYAAADZz5B/A
 </div>
 
 <div class="section-box">
-    <div class="section-title">24 SOLID SLABS</div>
+    <b>24 SOLID SLABS</b>
     
     <p class="bold">24.1 General</p>
     <p>The provisions of <span class="bold">23.2</span> for beams apply to slabs also.</p>
@@ -563,74 +562,102 @@ var images=['data:image/bmp;base64,iVBORw0KGgoAAAANSUhEUgAAAngAAAH4CAYAAADZz5B/A
     <p class="bold">24.3 Slabs Monolithic with Supports</p>
     <p>Bending moments in slabs (except flat slabs) constructed monolithically with the supports shall be calculated by taking such slabs either as continuous over supports and. capable of free rotation, or as members of a continuous framework with the supports, taking into account the stiffness of such supports. If such supports are formed into beams which justify fixity at the support of the slab, then the effects on the supporting beam, such as, the bending of the web in the transverse direction of the beam and the torsion in the longitudinal direction of the beam, wherever applicable, shall also be considered in the design of the beam.</p>
     
-    <p class="bold">24.3.1</p>
-    <p>For the purpose of calculation of moments in slabs in a monolithic structure, it will generally be sufficiently accurate to assume that members connected to the ends of such slabs are fixed in position and direction at the ends remote from their connections with the slabs.</p>
+    <p><b>24.3.1</b> For the purpose of calculation of moments in slabs in a monolithic structure, it will generally be sufficiently accurate to assume that members connected to the ends of such slabs are fixed in position and direction at the ends remote from their connections with the slabs.</p>
     
-    <p class="bold">24.3.2 Slabs Carrying Concentrated Load</p>
+    <p><b>24.3.2</b> Slabs Carrying Concentrated Load</p>
     
-    <p class="bold">24.3.2.1</p>
-    <p>If a solid slab supported on two opposite edges, carries concentrated loads the maximum bending moment caused by the concentrated loads will be assumed to be resisted by an effective width of slab (measured parallel to the supporting edges) as follows:</p>
+    <p><b>24.3.2.1</b> If a solid slab supported on two opposite edges, carries concentrated loads the maximum bending moment caused by the concentrated loads will be assumed to be resisted by an effective width of slab (measured parallel to the supporting edges) as follows:</p>
     
-    <p>For a single concentrated load, the effective width shall be taken as:</p>
-    <p>\( b_{eff} = k \times x \times \left(1 - \frac{x}{l}\right) + b_w \)</p>
+    <p>For a single concentrated load, the effective width shall be calculated in accordance with the following equation provided that it shall not exceed the actual width of the slab:</p>
+    <p>b<sub>eff</sub> = kx (1- x/ l<sub>eff</sub>) + a
     
     <p>where</p>
-    <p>\( b_{eff} \) = effective width of slab on which the load acts,</p>
-    <p>\( l \) = effective span,</p>
-    <p>\( x \) = distance of the centre of gravity of the concentrated load from the near support,</p>
-    <p>\( b_w \) = breadth of the concentrated area of load (i.e., the dimension parallel to the supporting edges), and</p>
-    <p>\( k \) = a constant having values as given in Table 14 depending upon the ratio \( b_s/l \) where \( b_s \) is the breadth of the concentrated area of load (i.e., the dimension at right angles to the supporting edges).</p>
+    <p>b<sub>eff</sub> = effective width of slab on which the load acts,</p>
+    <p>l<sub>eff</sub> = effective span,</p>
+    <p> x = distance of the centre of gravity of the concentrated load from the near support,</p>
+    <p> a = widthh of the concentrated area of load (i.e., the dimension parallel to the supporting edges), and</p>
+    <p> k = a constant having values as given in Table 14 depending upon the ratio ( l' ) where ( l<sub>eff</sub> ) is the breadth of the concentrated area of load (i.e., the dimension at right angles to the supporting edges).</p>
     
     <table>
-        <caption>Table 14 Values of \( k \)<br>(Clause 24.3.2.1)</caption>
+        <caption><b>Table 14 Values of k for simply supported and continous slab</b></caption>
+            <caption>(Clause 24.3.2.1)</caption>
         <tr>
-            <th>\( b_s/l \)</th>
-            <th>\( k \) for Simply Supported Slab</th>
-            <th>\( k \) for Continuous Slab</th>
+            <th><b>l'/ l<sub>eff</sub></b></th>
+            <th><b>k for Simply Supported Slab</b></th>
+            <th><b>k for Continuous Slab</b></th>
         </tr>
         <tr>
             <td>0.1</td>
             <td>0.4</td>
-            <td>0.45</td>
+            <td>0.4</td>
         </tr>
         <tr>
             <td>0.2</td>
             <td>0.8</td>
-            <td>0.90</td>
+            <td>0.80</td>
         </tr>
         <tr>
             <td>0.3</td>
             <td>1.16</td>
-            <td>1.30</td>
+            <td>1.16</td>
         </tr>
         <tr>
             <td>0.4</td>
             <td>1.48</td>
-            <td>1.66</td>
+            <td>1.44</td>
         </tr>
         <tr>
             <td>0.5</td>
             <td>1.72</td>
-            <td>1.94</td>
+            <td>1.68</td>
         </tr>
         <tr>
-            <td>≥0.6</td>
-            <td>2.00</td>
-            <td>2.25</td>
+            <td>0.6</td>
+            <td>1.96</td>
+            <td>1.84</td>
+        </tr>
+        <tr>
+            <td>0.7</td>
+            <td>2.12</td>
+            <td>1.96</td>
+        </tr>
+        <tr>
+            <td>0.8</td>
+            <td>2.24</td>
+            <td>2.08</td>
+        </tr>
+        <tr>
+            <td>0.9</td>
+            <td>2.36</td>
+            <td>2.16</td>
+        </tr>
+        <tr>
+            <td>1.0 & above </td>
+            <td>2.48</td>
+            <td>2.24</td>
         </tr>
     </table>
     
-    <p class="bold">24.3.2.2</p>
-    <p>For two or more concentrated loads placed in a line in the direction of the span, the effective width shall be calculated for the individual loads separately and the design shall be based on the enveloping moment curve.</p>
     
-    <p class="bold">24.3.2.3</p>
-    <p>For two or more concentrated loads not in a line in the direction of the span, the effective width shall be calculated for each load separately and the slab designed for the co-existent moments due to all loads with their respective effective widths.</p>
+    <p><span class="bold">d)</span> For cantilever solid slabs, the effective width shall be calculated in accordance with the following equation:</p>
     
-    <p class="bold">24.3.2.4</p>
-    <p>For determining the effective width of slab for negative bending moment, the value of \( l \) shall be assumed as the sum of the effective spans of the two adjacent spans.</p>
+    <div class="equation">
+        b<span class="subscript">ef</span> = 1.2a<span class="subscript">1</span> + a
+    </div>
     
-    <p class="bold">24.3.2.5</p>
-    <p>In no case shall the effective width for a given load exceed the value obtained by adding the breadth of the concentrated area of load to twice the distance of its centre of gravity from the nearest supporting edge.</p>
+    <p>where</p>
+    
+    <div class="divider"></div>
+    
+    <p>b<span class="subscript">ef</span> = effective width,</p>
+    <p>a<span class="subscript">1</span> = distance of the concentrated load from the face of the cantilever support, and</p>
+    <p>a = width of contact area of the concentrated load measured parallel to the supporting edge.</p>
+    
+    <p>Provided that the effective width of the cantilever slab shall not exceed one-third the length of the cantilever slab measured parallel to the fixed edge. And provided further that when the concentrated load is placed near the extreme ends of the length of cantilever slab in the direction parallel to the fixed edge, the effective width shall not exceed the above value, nor shall it exceed half the above value plus the distance of the concentrated load from the extreme end measured in the direction parallel to the fixed edge.</p>
+    
+    <p><b>24.3.2.2</b> For slabs other than solid slabs, the effective width shall depend on the ratio of the transverse and longitudinal flexural rigidities of the slab. Where this ratio is one, that is, where the transverse and longitudinal flexural rigidities are approximately equal, the value of effective width as found for solid slabs may be used. But as the ratio decreases, proportionately smaller value shall be taken.</p>
+    
+    <p><b>24.3.2.3</b>Any other recognized method of analysis for cases of slabs covered by 24.3.2.1 and 24.3.2.2 and for all other cases of slabs may be used with the approval of the engineer-in-charge.</p>
     
     <p class="bold">24.4 Shear in Slabs</p>
     <p>Nominal shear stress in slabs of uniform depth shall be calculated as given in 40.1. The nominal shear stress in slabs shall not exceed \( k \tau_c \) where \( \tau_c \) is given in Table 19 and \( k \) has the values as given below:</p>
