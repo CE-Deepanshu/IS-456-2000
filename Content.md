@@ -10,7 +10,7 @@
 | **2** | References |
 | **3** | Terminology |
 | **4** | Symbols |
-| **SECTION 2** | **MATERIALS, WORKMANSHIP, INSPECTION AND TESTING** |
+| **SECTION 2** | **[MATERIALS, WORKMANSHIP, INSPECTION AND TESTING](S_2_IS_456.html)** |
 | **5** | **Materials** |
 | **5.1** | Cement |
 | **5.2** | Mineral Admixtures |
