@@ -1,7 +1,7 @@
 # IS_456-2000.github.io
 # IS 456 : 2000_REAFFIRMED 2021
-## Indian Standard  
 ## PLAIN AND REINFORCED CONCRETE  CODE OF PRACTICE  ( Fourth Revision)
+## Indian Standard  
 ## BUREAU OF INDIAN STANDARDS
 ```
 Note: This website content contains all changes made due to Amendment no. 1, 2, 3, 4, 5 & 6 with referring latest IS 456 : 2000_Reaffirmed 2021. This website doesn't claim any copyright for any IS code, this website is made only for ease of education for civil engineers. 
