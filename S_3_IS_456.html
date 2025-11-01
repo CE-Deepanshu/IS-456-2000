@@ -585,11 +585,14 @@ var images=['data:image/bmp;base64,iVBORw0KGgoAAAANSUhEUgAAAzEAAAHoCAYAAAB5OGFOA
     <p><b>24.3.2.1</b> If a solid slab supported on two opposite edges, carries concentrated loads the maximum bending moment caused by the concentrated loads will be assumed to be resisted by an effective width of slab (measured parallel to the supporting edges) as follows:</p>
     
     <p>For a single concentrated load, the effective width shall be calculated in accordance with the following equation provided that it shall not exceed the actual width of the slab:</p>
-    <p>b<sub>eff</sub> = kx (1- x/ l<sub>eff</sub>) + a
+    <p>b<sub>eff</sub> = kx (1- <div style="display: inline-block; vertical-align: middle;">
+                    <div style="text-align: center; border-bottom: 2px solid #333; padding: 0 10px;">x</div>
+                    <div style="text-align: center; padding-top: 5px;">l<sub>ef</sub></div> 
+                </div> ) + a
     
     <p>where</p>
-    <p>b<sub>eff</sub> = effective width of slab on which the load acts,</p>
-    <p>l<sub>eff</sub> = effective span,</p>
+    <p>b<sub>ef</sub> = effective width of slab on which the load acts,</p>
+    <p>l<sub>ef</sub> = effective span,</p>
     <p> x = distance of the centre of gravity of the concentrated load from the near support,</p>
     <p> a = widthh of the concentrated area of load (i.e., the dimension parallel to the supporting edges), and</p>
     <p> k = a constant having values as given in Table 14 depending upon the ratio ( l' ) where ( l<sub>eff</sub> ) is the breadth of the concentrated area of load (i.e., the dimension at right angles to the supporting edges).</p>
@@ -658,7 +661,7 @@ var images=['data:image/bmp;base64,iVBORw0KGgoAAAANSUhEUgAAAzEAAAHoCAYAAAB5OGFOA
     <p><span class="bold">d)</span> For cantilever solid slabs, the effective width shall be calculated in accordance with the following equation:</p>
     
     <div class="equation">
-        b<span class="subscript">ef</span> = 1.2a<span class="subscript">1</span> + a
+        b<span class="subscript">ef</span> = 1.2a<sub>1</sub> + a
     </div>
     
     <p>where</p>
@@ -726,7 +729,15 @@ to be in accordance with Fig. 7.</p>
 
         <p><b>25.1.2</b> Short and Slender Compression Members</p>
 
-        <p>A compression member may be considered as short when both the slenderness ratios l<sub>ex</sub>/D and l<sub>ey</sub>/b are less than 12:</p>
+        <p>A compression member may be considered as short when both the slenderness ratios 
+            <div style="display: inline-block; vertical-align: middle;">
+                    <div style="text-align: center; border-bottom: 2px solid #333; padding: 0 10px;">L<sub>ex</sub></div>
+                    <div style="text-align: center; padding-top: 5px;">D</div> 
+                </div> and
+        <div style="display: inline-block; vertical-align: middle;">
+                    <div style="text-align: center; border-bottom: 2px solid #333; padding: 0 10px;">L<sub>ey</sub></div>
+                    <div style="text-align: center; padding-top: 5px;">b</div> 
+                </div> are less than 12:</p>
 
         <p>where</p>
 
