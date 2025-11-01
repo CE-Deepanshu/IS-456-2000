@@ -4,7 +4,7 @@
 ## PLAIN AND REINFORCED CONCRETE  CODE OF PRACTICE  ( Fourth Revision)
 ## BUREAU OF INDIAN STANDARDS
 ```
-Note: This website content contains all changes made due to Amendment no. 1, 2, 3, 4, 5 & 6 with referring latest IS 456 : 2000_Reaffirmed 2021
+Note: This website content contains all changes made due to Amendment no. 1, 2, 3, 4, 5 & 6 with referring latest IS 456 : 2000_Reaffirmed 2021. This website doesn't claim any copyright for any IS code, this website is made only for ease of education for civil engineers. 
 ```
 ## [FOREWORD](Foreword.html)
 ## [CONTENT](Content.md)
